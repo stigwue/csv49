@@ -1,0 +1,7 @@
+CODE,GP-ZONE
+NC,North-Central
+NE,North-Eastern
+NW,North-Western
+SE,South-Eastern
+SS,South-South
+SW,South-Western
