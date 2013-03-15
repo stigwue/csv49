@@ -1,775 +1,775 @@
 CODE,STATE,LGA,LAT,LON
-AB,"Abia","Aba North","5.4308921","7.5247243"
-AB,"Abia","Aba South","5.4308921","7.5247243"
-AB,"Abia","Arochukwu","5.4308921","7.5247243"
-AB,"Abia","Bende","5.4308921","7.5247243"
-AB,"Abia","Ikwuano","5.4308921","7.5247243"
-AB,"Abia","Isiala Ngwa North","5.4308921","7.5247243"
-AB,"Abia","Isiala Ngwa South","5.4308921","7.5247243"
-AB,"Abia","Isuikwuato","5.4308921","7.5247243"
-AB,"Abia","Obingwa","5.4308921","7.5247243"
-AB,"Abia","Ohafia","5.4308921","7.5247243"
-AB,"Abia","Osisioma","5.4308921","7.5247243"
-AB,"Abia","Ugwunagbo","5.4308921","7.5247243"
-AB,"Abia","Ukwa East","5.4308921","7.5247243"
-AB,"Abia","Ukwa  West","5.4308921","7.5247243"
-AB,"Abia","Umuahia North","5.4308921","7.5247243"
-AB,"Abia","Umuahia  South","5.4308921","7.5247243"
-AB,"Abia","Umu - Nneochi","5.4308921","7.5247243"
-AD,"Adamawa","Demsa","9.3250497","12.4380581"
-AD,"Adamawa","Fufore","9.3250497","12.4380581"
-AD,"Adamawa","Ganye","9.3250497","12.4380581"
-AD,"Adamawa","Gire 1","9.3250497","12.4380581"
-AD,"Adamawa","Gombi","9.3250497","12.4380581"
-AD,"Adamawa","Guyuk","9.3250497","12.4380581"
-AD,"Adamawa","Hong","9.3250497","12.4380581"
-AD,"Adamawa","Jada","9.3250497","12.4380581"
-AD,"Adamawa","Lamurde","9.3250497","12.4380581"
-AD,"Adamawa","Madagali","9.3250497","12.4380581"
-AD,"Adamawa","Maiha","9.3250497","12.4380581"
-AD,"Adamawa","Mayo - Belwa","9.3250497","12.4380581"
-AD,"Adamawa","Michika","9.3250497","12.4380581"
-AD,"Adamawa","Mubi North","9.3250497","12.4380581"
-AD,"Adamawa","Mubi South","9.3250497","12.4380581"
-AD,"Adamawa","Numan","9.3250497","12.4380581"
-AD,"Adamawa","Shelleng","9.3250497","12.4380581"
-AD,"Adamawa","Song","9.3250497","12.4380581"
-AD,"Adamawa","Toungo","9.3250497","12.4380581"
-AD,"Adamawa","Yola North","9.3250497","12.4380581"
-AD,"Adamawa","Yola South","9.3250497","12.4380581"
-AK,"Akwa Ibom","Abak","4.9299869","7.8721600"
-AK,"Akwa Ibom","Eastern Obolo","4.9299869","7.8721600"
-AK,"Akwa Ibom","Eket","4.9299869","7.8721600"
-AK,"Akwa Ibom","Esit Eket (uquo)","4.9299869","7.8721600"
-AK,"Akwa Ibom","Essien Udim","4.9299869","7.8721600"
-AK,"Akwa Ibom","Etim Ekpo","4.9299869","7.8721600"
-AK,"Akwa Ibom","Etinan","4.9299869","7.8721600"
-AK,"Akwa Ibom","Ibeno","4.9299869","7.8721600"
-AK,"Akwa Ibom","Ibesikpo Asutan","4.9299869","7.8721600"
-AK,"Akwa Ibom","Ibiono Ibom","4.9299869","7.8721600"
-AK,"Akwa Ibom","Ika","4.9299869","7.8721600"
-AK,"Akwa Ibom","Ikono","4.9299869","7.8721600"
-AK,"Akwa Ibom","Ikot Abasi","4.9299869","7.8721600"
-AK,"Akwa Ibom","Ikot Ekpene","4.9299869","7.8721600"
-AK,"Akwa Ibom","Ini","4.9299869","7.8721600"
-AK,"Akwa Ibom","Itu","4.9299869","7.8721600"
-AK,"Akwa Ibom","Mbo","4.9299869","7.8721600"
-AK,"Akwa Ibom","Mkpat Enin","4.9299869","7.8721600"
-AK,"Akwa Ibom","Nsit Atai","4.9299869","7.8721600"
-AK,"Akwa Ibom","Nsit Ibom","4.9299869","7.8721600"
-AK,"Akwa Ibom","Nsit Ubium","4.9299869","7.8721600"
-AK,"Akwa Ibom","Obot Akara","4.9299869","7.8721600"
-AK,"Akwa Ibom","Okobo","4.9299869","7.8721600"
-AK,"Akwa Ibom","Onna","4.9299869","7.8721600"
-AK,"Akwa Ibom","Oron","4.9299869","7.8721600"
-AK,"Akwa Ibom","Oruk Anam","4.9299869","7.8721600"
-AK,"Akwa Ibom","Udung Uko","4.9299869","7.8721600"
-AK,"Akwa Ibom","Ukanafun","4.9299869","7.8721600"
-AK,"Akwa Ibom","Uruan","4.9299869","7.8721600"
-AK,"Akwa Ibom","Urue Offong/oruko","4.9299869","7.8721600"
-AK,"Akwa Ibom","Uyo","4.9299869","7.8721600"
-AN,"Anambra","Aguata","6.2757656","7.0068393"
-AN,"Anambra","Ayamelum","6.2757656","7.0068393"
-AN,"Anambra","Anambra East","6.2757656","7.0068393"
-AN,"Anambra","Anambra West","6.2757656","7.0068393"
-AN,"Anambra","Anaocha","6.2757656","7.0068393"
-AN,"Anambra","Awka North","6.2757656","7.0068393"
-AN,"Anambra","Awka South","6.2757656","7.0068393"
-AN,"Anambra","Dunukofia","6.2757656","7.0068393"
-AN,"Anambra","Ekwusigo","6.2757656","7.0068393"
-AN,"Anambra","Idemili North","6.2757656","7.0068393"
-AN,"Anambra","Idemili-south","6.2757656","7.0068393"
-AN,"Anambra","Ihala","6.2757656","7.0068393"
-AN,"Anambra","Njikoka","6.2757656","7.0068393"
-AN,"Anambra","Nnewi North","6.2757656","7.0068393"
-AN,"Anambra","Nnewi South","6.2757656","7.0068393"
-AN,"Anambra","Ogbaru","6.2757656","7.0068393"
-AN,"Anambra","Onitsha-north","6.2757656","7.0068393"
-AN,"Anambra","Onitsha -south","6.2757656","7.0068393"
-AN,"Anambra","Orumba North","6.2757656","7.0068393"
-AN,"Anambra","Orumba  South","6.2757656","7.0068393"
-AN,"Anambra","Oyi","6.2757656","7.0068393"
-BA,"Bauchi","Alkaleri","10.3098200","9.8451720"
-BA,"Bauchi","Bauchi","10.3098200","9.8451720"
-BA,"Bauchi","Bogoro","10.3098200","9.8451720"
-BA,"Bauchi","Dambam","10.3098200","9.8451720"
-BA,"Bauchi","Darazo","10.3098200","9.8451720"
-BA,"Bauchi","Dass","10.3098200","9.8451720"
-BA,"Bauchi","Gamawa","10.3098200","9.8451720"
-BA,"Bauchi","Ganjuwa","10.3098200","9.8451720"
-BA,"Bauchi","Giade","10.3098200","9.8451720"
-BA,"Bauchi","Itas/gadau","10.3098200","9.8451720"
-BA,"Bauchi","JAMA'ARE","10.3098200","9.8451720"
-BA,"Bauchi","Katagum","10.3098200","9.8451720"
-BA,"Bauchi","Kirfi","10.3098200","9.8451720"
-BA,"Bauchi","Misau","10.3098200","9.8451720"
-BA,"Bauchi","Ningi","10.3098200","9.8451720"
-BA,"Bauchi","Shira","10.3098200","9.8451720"
-BA,"Bauchi","Tafawa Balewa","10.3098200","9.8451720"
-BA,"Bauchi","Toro","10.3098200","9.8451720"
-BA,"Bauchi","Warji","10.3098200","9.8451720"
-BA,"Bauchi","Zaki","10.3098200","9.8451720"
-BY,"Bayelsa","Brass","4.8677767","5.8987139"
-BY,"Bayelsa","Ekeremor","4.8677767","5.8987139"
-BY,"Bayelsa","Kolokuma/opokuma","4.8677767","5.8987139"
-BY,"Bayelsa","Nembe","4.8677767","5.8987139"
-BY,"Bayelsa","Ogbia","4.8677767","5.8987139"
-BY,"Bayelsa","Sagbama","4.8677767","5.8987139"
-BY,"Bayelsa","Southern Ijaw","4.8677767","5.8987139"
-BY,"Bayelsa","Yenagoa","4.8677767","5.8987139"
-BN,"Benue","Ado","7.3508259","8.8362755"
-BN,"Benue","Agatu","7.3508259","8.8362755"
-BN,"Benue","Apa","7.3508259","8.8362755"
-BN,"Benue","Buruku","7.3508259","8.8362755"
-BN,"Benue","Gboko","7.3508259","8.8362755"
-BN,"Benue","Guma","7.3508259","8.8362755"
-BN,"Benue","Gwer East","7.3508259","8.8362755"
-BN,"Benue","Gwer West","7.3508259","8.8362755"
-BN,"Benue","Katsina-ala","7.3508259","8.8362755"
-BN,"Benue","Konshisha","7.3508259","8.8362755"
-BN,"Benue","Kwande","7.3508259","8.8362755"
-BN,"Benue","Logo","7.3508259","8.8362755"
-BN,"Benue","Makurdi","7.3508259","8.8362755"
-BN,"Benue","Obi","7.3508259","8.8362755"
-BN,"Benue","Ogbadibo","7.3508259","8.8362755"
-BN,"Benue","Oju","7.3508259","8.8362755"
-BN,"Benue","Ohimini","7.3508259","8.8362755"
-BN,"Benue","Okpokwu","7.3508259","8.8362755"
-BN,"Benue","Otukpo","7.3508259","8.8362755"
-BN,"Benue","Tarka","7.3508259","8.8362755"
-BN,"Benue","Ukum","7.3508259","8.8362755"
-BN,"Benue","Ushongo","7.3508259","8.8362755"
-BN,"Benue","Vandeikya","7.3508259","8.8362755"
-BO,"Borno","Abadam","12.1205201","13.1740348"
-BO,"Borno","Askira / Uba","12.1205201","13.1740348"
-BO,"Borno","Bama","12.1205201","13.1740348"
-BO,"Borno","Bayo","12.1205201","13.1740348"
-BO,"Borno","Biu","12.1205201","13.1740348"
-BO,"Borno","Chibok","12.1205201","13.1740348"
-BO,"Borno","Damboa","12.1205201","13.1740348"
-BO,"Borno","Dikwa","12.1205201","13.1740348"
-BO,"Borno","Gubio","12.1205201","13.1740348"
-BO,"Borno","Guzamala","12.1205201","13.1740348"
-BO,"Borno","Gwoza","12.1205201","13.1740348"
-BO,"Borno","Hawul","12.1205201","13.1740348"
-BO,"Borno","Jere","12.1205201","13.1740348"
-BO,"Borno","Kaga","12.1205201","13.1740348"
-BO,"Borno","Kala Balge","12.1205201","13.1740348"
-BO,"Borno","Konduga","12.1205201","13.1740348"
-BO,"Borno","Kukawa","12.1205201","13.1740348"
-BO,"Borno","Kwaya / Kusar","12.1205201","13.1740348"
-BO,"Borno","Mafa","12.1205201","13.1740348"
-BO,"Borno","Magumeri","12.1205201","13.1740348"
-BO,"Borno","Maiduguri M. C.","12.1205201","13.1740348"
-BO,"Borno","Marte","12.1205201","13.1740348"
-BO,"Borno","Mobbar","12.1205201","13.1740348"
-BO,"Borno","Monguno","12.1205201","13.1740348"
-BO,"Borno","Ngala","12.1205201","13.1740348"
-BO,"Borno","Nganzai","12.1205201","13.1740348"
-BO,"Borno","Shani","12.1205201","13.1740348"
-CR,"Cross River","Abi","5.5805318","8.7481167"
-CR,"Cross River","Akamkpa","5.5805318","8.7481167"
-CR,"Cross River","Akpabuyo","5.5805318","8.7481167"
-CR,"Cross River","Bakassi","5.5805318","8.7481167"
-CR,"Cross River","Bekwarra","5.5805318","8.7481167"
-CR,"Cross River","Biase","5.5805318","8.7481167"
-CR,"Cross River","Boki","5.5805318","8.7481167"
-CR,"Cross River","Calabar Municipality","5.5805318","8.7481167"
-CR,"Cross River","Calabar South","5.5805318","8.7481167"
-CR,"Cross River","Etung","5.5805318","8.7481167"
-CR,"Cross River","Ikom","5.5805318","8.7481167"
-CR,"Cross River","Obanliku","5.5805318","8.7481167"
-CR,"Cross River","Obubra","5.5805318","8.7481167"
-CR,"Cross River","Obudu","5.5805318","8.7481167"
-CR,"Cross River","Odukpani","5.5805318","8.7481167"
-CR,"Cross River","Ogoja","5.5805318","8.7481167"
-CR,"Cross River","Yakurr","5.5805318","8.7481167"
-CR,"Cross River","Yala","5.5805318","8.7481167"
-DT,"Delta","Aniocha North","5.5324624","5.8987139"
-DT,"Delta","Aniocha - South","5.5324624","5.8987139"
-DT,"Delta","Bomadi","5.5324624","5.8987139"
-DT,"Delta","Burutu","5.5324624","5.8987139"
-DT,"Delta","Ethiope  East","5.5324624","5.8987139"
-DT,"Delta","Ethiope  West","5.5324624","5.8987139"
-DT,"Delta","Ika North- East","5.5324624","5.8987139"
-DT,"Delta","Ika - South","5.5324624","5.8987139"
-DT,"Delta","Isoko North","5.5324624","5.8987139"
-DT,"Delta","Isoko South","5.5324624","5.8987139"
-DT,"Delta","Ndokwa East","5.5324624","5.8987139"
-DT,"Delta","Ndokwa West","5.5324624","5.8987139"
-DT,"Delta","Okpe","5.5324624","5.8987139"
-DT,"Delta","Oshimili - North","5.5324624","5.8987139"
-DT,"Delta","Oshimili - South","5.5324624","5.8987139"
-DT,"Delta","Patani","5.5324624","5.8987139"
-DT,"Delta","Sapele","5.5324624","5.8987139"
-DT,"Delta","Udu","5.5324624","5.8987139"
-DT,"Delta","Ughelli North","5.5324624","5.8987139"
-DT,"Delta","Ughelli South","5.5324624","5.8987139"
-DT,"Delta","Ukwuani","5.5324624","5.8987139"
-DT,"Delta","Uvwie","5.5324624","5.8987139"
-DT,"Delta","Warri  North","5.5324624","5.8987139"
-DT,"Delta","Warri South","5.5324624","5.8987139"
-DT,"Delta","Warri South  West","5.5324624","5.8987139"
-EB,"Ebonyi","Abakaliki","6.1779730","7.9592863"
-EB,"Ebonyi","Afikpo North","6.1779730","7.9592863"
-EB,"Ebonyi","Afikpo  South","6.1779730","7.9592863"
-EB,"Ebonyi",EB,"Ebonyi","6.1779730","7.9592863"
-EB,"Ebonyi","Ezza North","6.1779730","7.9592863"
-EB,"Ebonyi","Ezza South","6.1779730","7.9592863"
-EB,"Ebonyi","Ikwo","6.1779730","7.9592863"
-EB,"Ebonyi","Ishielu","6.1779730","7.9592863"
-EB,"Ebonyi","Ivo","6.1779730","7.9592863"
-EB,"Ebonyi","Izzi","6.1779730","7.9592863"
-EB,"Ebonyi","Ohaozara","6.1779730","7.9592863"
-EB,"Ebonyi","Ohaukwu","6.1779730","7.9592863"
-EB,"Ebonyi","Onicha","6.1779730","7.9592863"
-ED,"Edo","Akoko Edo","6.5438101","5.8987139"
-ED,"Edo","Egor","6.5438101","5.8987139"
-ED,"Edo","Esan Central","6.5438101","5.8987139"
-ED,"Edo","Esan North East","6.5438101","5.8987139"
-ED,"Edo","Esan South East","6.5438101","5.8987139"
-ED,"Edo","Esan West","6.5438101","5.8987139"
-ED,"Edo","Etsako Central","6.5438101","5.8987139"
-ED,"Edo","Etsako East","6.5438101","5.8987139"
-ED,"Edo","Etsako  West","6.5438101","5.8987139"
-ED,"Edo","Igueben","6.5438101","5.8987139"
-ED,"Edo","Ikpoba/okha","6.5438101","5.8987139"
-ED,"Edo","Oredo","6.5438101","5.8987139"
-ED,"Edo","Orhionmwon","6.5438101","5.8987139"
-ED,"Edo","Ovia North East","6.5438101","5.8987139"
-ED,"Edo","Ovia South West","6.5438101","5.8987139"
-ED,"Edo","Owan East","6.5438101","5.8987139"
-ED,"Edo","Owan West","6.5438101","5.8987139"
-ED,"Edo","Uhunmwode","6.5438101","5.8987139"
-EK,"Ekiti","Ado Ekiti","7.6655813","5.3102505"
-EK,"Ekiti","Efon","7.6655813","5.3102505"
-EK,"Ekiti","Ekiti East","7.6655813","5.3102505"
-EK,"Ekiti","Ekiti West","7.6655813","5.3102505"
-EK,"Ekiti","Ekiti South West","7.6655813","5.3102505"
-EK,"Ekiti","Emure","7.6655813","5.3102505"
-EK,"Ekiti","Gbonyin","7.6655813","5.3102505"
-EK,"Ekiti","Ido / Osi","7.6655813","5.3102505"
-EK,"Ekiti","Ijero","7.6655813","5.3102505"
-EK,"Ekiti","Ikere","7.6655813","5.3102505"
-EK,"Ekiti","Ikole","7.6655813","5.3102505"
-EK,"Ekiti","Ilejemeje","7.6655813","5.3102505"
-EK,"Ekiti","Irepodun / Ifelodun","7.6655813","5.3102505"
-EK,"Ekiti","Ise / Orun","7.6655813","5.3102505"
-EK,"Ekiti","Moba","7.6655813","5.3102505"
-EK,"Ekiti","Oye","7.6655813","5.3102505"
-EN,"Enugu","Aninri","6.4526667","7.5103333"
-EN,"Enugu","Awgu","6.4526667","7.5103333"
-EN,"Enugu","Enugu East","6.4526667","7.5103333"
-EN,"Enugu","Enugu North","6.4526667","7.5103333"
-EN,"Enugu","Enugu South","6.4526667","7.5103333"
-EN,"Enugu","Ezeagu","6.4526667","7.5103333"
-EN,"Enugu","Igbo Etiti","6.4526667","7.5103333"
-EN,"Enugu","Igbo Eze North","6.4526667","7.5103333"
-EN,"Enugu","Igbo Eze South","6.4526667","7.5103333"
-EN,"Enugu","Isi Uzo","6.4526667","7.5103333"
-EN,"Enugu","Nkanu East","6.4526667","7.5103333"
-EN,"Enugu","Nkanu West","6.4526667","7.5103333"
-EN,"Enugu","Nsukka","6.4526667","7.5103333"
-EN,"Enugu","Oji-river","6.4526667","7.5103333"
-EN,"Enugu","Udenu","6.4526667","7.5103333"
-EN,"Enugu","Udi","6.4526667","7.5103333"
-EN,"Enugu","Uzo-uwani","6.4526667","7.5103333"
-FC,"Fct","Abaji","8.8556838","7.1790260"
-FC,"Fct","Bwari","8.8556838","7.1790260"
-FC,"Fct","Gwagwalada","8.8556838","7.1790260"
-FC,"Fct","Kuje","8.8556838","7.1790260"
-FC,"Fct","Kwali","8.8556838","7.1790260"
-FC,"Fct","Municipal","8.8556838","7.1790260"
-GM,"Gombe","Akko","10.2824000","11.1747900"
-GM,"Gombe","Balanga","10.2824000","11.1747900"
-GM,"Gombe","Billiri","10.2824000","11.1747900"
-GM,"Gombe","Dukku","10.2824000","11.1747900"
-GM,"Gombe","Funakaye","10.2824000","11.1747900"
-GM,"Gombe",GM,"Gombe","10.2824000","11.1747900"
-GM,"Gombe","Kaltungo","10.2824000","11.1747900"
-GM,"Gombe","Kwami","10.2824000","11.1747900"
-GM,"Gombe","Nafada","10.2824000","11.1747900"
-GM,"Gombe","Shongom","10.2824000","11.1747900"
-GM,"Gombe","Yalmaltu/ Deba","10.2824000","11.1747900"
-IM,"Imo","Aboh Mbaise","5.5214533","6.9209135"
-IM,"Imo","Ahiazu Mbaise","5.5214533","6.9209135"
-IM,"Imo","Ehime Mbano","5.5214533","6.9209135"
-IM,"Imo","Ezinihitte Mbaise","5.5214533","6.9209135"
-IM,"Imo","Ideato North","5.5214533","6.9209135"
-IM,"Imo","Ideato South","5.5214533","6.9209135"
-IM,"Imo","Ihitte/uboma (isinweke)","5.5214533","6.9209135"
-IM,"Imo","Ikeduru (iho)","5.5214533","6.9209135"
-IM,"Imo","Isiala Mbano (umuelemai)","5.5214533","6.9209135"
-IM,"Imo","Isu (umundugba)","5.5214533","6.9209135"
-IM,"Imo","Mbaitoli (nwaorieubi)","5.5214533","6.9209135"
-IM,"Imo","Ngor Okpala (umuneke)","5.5214533","6.9209135"
-IM,"Imo","Njaba (nnenasa)","5.5214533","6.9209135"
-IM,"Imo","Nkwerre","5.5214533","6.9209135"
-IM,"Imo","Nwangele (onu-nwangele Amaigbo)","5.5214533","6.9209135"
-IM,"Imo","Obowo (otoko)","5.5214533","6.9209135"
-IM,"Imo","Oguta (oguta)","5.5214533","6.9209135"
-IM,"Imo","Ohaji/egbema (mmahu-egbema)","5.5214533","6.9209135"
-IM,"Imo","Okigwe  (okigwe)","5.5214533","6.9209135"
-IM,"Imo","Onuimo (okwe)","5.5214533","6.9209135"
-IM,"Imo","Orlu","5.5214533","6.9209135"
-IM,"Imo","Orsu (awo Idemili)","5.5214533","6.9209135"
-IM,"Imo","Oru-east","5.5214533","6.9209135"
-IM,"Imo","Oru West (mgbidi)","5.5214533","6.9209135"
-IM,"Imo","Owerri Municipal","5.5214533","6.9209135"
-IM,"Imo","Owerri North (orie Uratta)","5.5214533","6.9209135"
-IM,"Imo","Owerri West (umuguma)","5.5214533","6.9209135"
-JG,"Jigawa","Auyo","12.4460001","9.7232673"
-JG,"Jigawa","Babura","12.4460001","9.7232673"
-JG,"Jigawa","Birnin Kudu","12.4460001","9.7232673"
-JG,"Jigawa","Birniwa","12.4460001","9.7232673"
-JG,"Jigawa","Buji","12.4460001","9.7232673"
-JG,"Jigawa","Dutse","12.4460001","9.7232673"
-JG,"Jigawa","Garki","12.4460001","9.7232673"
-JG,"Jigawa","Gagarawa","12.4460001","9.7232673"
-JG,"Jigawa","Gumel","12.4460001","9.7232673"
-JG,"Jigawa","Guri","12.4460001","9.7232673"
-JG,"Jigawa","Gwaram","12.4460001","9.7232673"
-JG,"Jigawa","Gwiwa","12.4460001","9.7232673"
-JG,"Jigawa","Hadejia","12.4460001","9.7232673"
-JG,"Jigawa","Jahun","12.4460001","9.7232673"
-JG,"Jigawa","Kafin Hausa","12.4460001","9.7232673"
-JG,"Jigawa","Kaugama","12.4460001","9.7232673"
-JG,"Jigawa","Kazaure","12.4460001","9.7232673"
-JG,"Jigawa","Kirika Samma","12.4460001","9.7232673"
-JG,"Jigawa","Kiyawa","12.4460001","9.7232673"
-JG,"Jigawa","Maigatari","12.4460001","9.7232673"
-JG,"Jigawa","Malam Madori","12.4460001","9.7232673"
-JG,"Jigawa","Miga","12.4460001","9.7232673"
-JG,"Jigawa","Ringim","12.4460001","9.7232673"
-JG,"Jigawa","Roni","12.4460001","9.7232673"
-JG,"Jigawa","Sule-tankarkar","12.4460001","9.7232673"
-JG,"Jigawa","Taura","12.4460001","9.7232673"
-JG,"Jigawa","Yankwashi","12.4460001","9.7232673"
-KD,"Kaduna","Birnin Gwari","10.5166667","7.4333333"
-KD,"Kaduna","Chikun","10.5166667","7.4333333"
-KD,"Kaduna","Giwa","10.5166667","7.4333333"
-KD,"Kaduna","Igabi","10.5166667","7.4333333"
-KD,"Kaduna","Ikara","10.5166667","7.4333333"
-KD,"Kaduna","Jaba","10.5166667","7.4333333"
-KD,"Kaduna","JEMA'A","10.5166667","7.4333333"
-KD,"Kaduna","Kachia","10.5166667","7.4333333"
-KD,"Kaduna","Kaduna North","10.5166667","7.4333333"
-KD,"Kaduna","Kaduna South","10.5166667","7.4333333"
-KD,"Kaduna","Kagarko","10.5166667","7.4333333"
-KD,"Kaduna","Kajuru","10.5166667","7.4333333"
-KD,"Kaduna","Kaura","10.5166667","7.4333333"
-KD,"Kaduna","Kauru","10.5166667","7.4333333"
-KD,"Kaduna","Kubau","10.5166667","7.4333333"
-KD,"Kaduna","Kudan","10.5166667","7.4333333"
-KD,"Kaduna","Lere","10.5166667","7.4333333"
-KD,"Kaduna","Makarfi","10.5166667","7.4333333"
-KD,"Kaduna","Sabon Gari","10.5166667","7.4333333"
-KD,"Kaduna","Sanga","10.5166667","7.4333333"
-KD,"Kaduna","Soba","10.5166667","7.4333333"
-KD,"Kaduna","Zangon Kataf","10.5166667","7.4333333"
-KD,"Kaduna","Zaria","10.5166667","7.4333333"
-KN,"Kano","Ajingi","12.0000000","8.5166670"
-KN,"Kano","Albasu","12.0000000","8.5166670"
-KN,"Kano","Bagwai","12.0000000","8.5166670"
-KN,"Kano","Bebeji","12.0000000","8.5166670"
-KN,"Kano","Bichi","12.0000000","8.5166670"
-KN,"Kano","Bunkure","12.0000000","8.5166670"
-KN,"Kano","Dala","12.0000000","8.5166670"
-KN,"Kano","Danbata","12.0000000","8.5166670"
-KN,"Kano","Dawaki Kudu","12.0000000","8.5166670"
-KN,"Kano","Dawaki Tofa","12.0000000","8.5166670"
-KN,"Kano","Doguwa","12.0000000","8.5166670"
-KN,"Kano","Fagge","12.0000000","8.5166670"
-KN,"Kano","Gabasawa","12.0000000","8.5166670"
-KN,"Kano","Garko","12.0000000","8.5166670"
-KN,"Kano","Garun Malam","12.0000000","8.5166670"
-KN,"Kano","Gaya","12.0000000","8.5166670"
-KN,"Kano","Gezawa","12.0000000","8.5166670"
-KN,"Kano","Gwale","12.0000000","8.5166670"
-KN,"Kano","Gwarzo","12.0000000","8.5166670"
-KN,"Kano","Kabo","12.0000000","8.5166670"
-KN,"Kano","Kano Municipal","12.0000000","8.5166670"
-KN,"Kano","Karaye","12.0000000","8.5166670"
-KN,"Kano","Kibiya","12.0000000","8.5166670"
-KN,"Kano","Kiru","12.0000000","8.5166670"
-KN,"Kano","Kumbotso","12.0000000","8.5166670"
-KN,"Kano","Kunchi","12.0000000","8.5166670"
-KN,"Kano","Kura","12.0000000","8.5166670"
-KN,"Kano","Madobi","12.0000000","8.5166670"
-KN,"Kano","Makoda","12.0000000","8.5166670"
-KN,"Kano","Minjibir","12.0000000","8.5166670"
-KN,"Kano",NS,"Nasarawa","12.0000000","8.5166670"
-KN,"Kano","Rano","12.0000000","8.5166670"
-KN,"Kano","Rimin Gado","12.0000000","8.5166670"
-KN,"Kano","Rogo","12.0000000","8.5166670"
-KN,"Kano","Shanono","12.0000000","8.5166670"
-KN,"Kano","Sumaila","12.0000000","8.5166670"
-KN,"Kano","Takai","12.0000000","8.5166670"
-KN,"Kano","Tarauni","12.0000000","8.5166670"
-KN,"Kano","Tofa","12.0000000","8.5166670"
-KN,"Kano","Tsanyawa","12.0000000","8.5166670"
-KN,"Kano","Tudun Wada","12.0000000","8.5166670"
-KN,"Kano","Ungogo","12.0000000","8.5166670"
-KN,"Kano","Warawa","12.0000000","8.5166670"
-KN,"Kano","Wudil","12.0000000","8.5166670"
-KT,"Katsina","Bakori","12.9930200","7.6061630"
-KT,"Katsina","Batagarawa","12.9930200","7.6061630"
-KT,"Katsina","Batsari","12.9930200","7.6061630"
-KT,"Katsina","Baure","12.9930200","7.6061630"
-KT,"Katsina","Bindawa","12.9930200","7.6061630"
-KT,"Katsina","Charanchi","12.9930200","7.6061630"
-KT,"Katsina","Dandume","12.9930200","7.6061630"
-KT,"Katsina","Danja","12.9930200","7.6061630"
-KT,"Katsina","Dan Musa","12.9930200","7.6061630"
-KT,"Katsina","Daura","12.9930200","7.6061630"
-KT,"Katsina","Dutsi","12.9930200","7.6061630"
-KT,"Katsina","Dutsin-ma","12.9930200","7.6061630"
-KT,"Katsina","Faskari","12.9930200","7.6061630"
-KT,"Katsina","Funtua","12.9930200","7.6061630"
-KT,"Katsina","Ingawa","12.9930200","7.6061630"
-KT,"Katsina","Jibia","12.9930200","7.6061630"
-KT,"Katsina","Kafur","12.9930200","7.6061630"
-KT,"Katsina","Kaita","12.9930200","7.6061630"
-KT,"Katsina","Kankara","12.9930200","7.6061630"
-KT,"Katsina","Kankia","12.9930200","7.6061630"
-KT,"Katsina",KT,"Katsina","12.9930200","7.6061630"
-KT,"Katsina","Kurfi","12.9930200","7.6061630"
-KT,"Katsina","Kusada","12.9930200","7.6061630"
-KT,"Katsina","MAI'ADUA","12.9930200","7.6061630"
-KT,"Katsina","Malufashi","12.9930200","7.6061630"
-KT,"Katsina","Mani","12.9930200","7.6061630"
-KT,"Katsina","Mashi","12.9930200","7.6061630"
-KT,"Katsina","Matazu","12.9930200","7.6061630"
-KT,"Katsina","Musawa","12.9930200","7.6061630"
-KT,"Katsina","Rimi","12.9930200","7.6061630"
-KT,"Katsina","Sabuwa","12.9930200","7.6061630"
-KT,"Katsina","Safana","12.9930200","7.6061630"
-KT,"Katsina","Sandamu","12.9930200","7.6061630"
-KT,"Katsina","Zango","12.9930200","7.6061630"
-KB,"Kebbi","Aliero","11.6781241","4.0695454"
-KB,"Kebbi","Arewa","11.6781241","4.0695454"
-KB,"Kebbi","Argungu","11.6781241","4.0695454"
-KB,"Kebbi","Augie","11.6781241","4.0695454"
-KB,"Kebbi","Bagudo","11.6781241","4.0695454"
-KB,"Kebbi","Birnin Kebbi","11.6781241","4.0695454"
-KB,"Kebbi","Bunza","11.6781241","4.0695454"
-KB,"Kebbi","Dandi","11.6781241","4.0695454"
-KB,"Kebbi","Fakai","11.6781241","4.0695454"
-KB,"Kebbi","Gwandu","11.6781241","4.0695454"
-KB,"Kebbi","Jega","11.6781241","4.0695454"
-KB,"Kebbi","Kalgo","11.6781241","4.0695454"
-KB,"Kebbi","Koko/besse","11.6781241","4.0695454"
-KB,"Kebbi","Maiyama","11.6781241","4.0695454"
-KB,"Kebbi","Ngaski","11.6781241","4.0695454"
-KB,"Kebbi","Sakaba","11.6781241","4.0695454"
-KB,"Kebbi","Shanga","11.6781241","4.0695454"
-KB,"Kebbi","Suru","11.6781241","4.0695454"
-KB,"Kebbi","Wasagu/danko","11.6781241","4.0695454"
-KB,"Kebbi","Yauri","11.6781241","4.0695454"
-KB,"Kebbi","Zuru","11.6781241","4.0695454"
-KG,"Kogi","Adavi","7.5618910","6.5783387"
-KG,"Kogi","Ajaokuta","7.5618910","6.5783387"
-KG,"Kogi","Ankpa","7.5618910","6.5783387"
-KG,"Kogi","Bassa","7.5618910","6.5783387"
-KG,"Kogi","Dekina","7.5618910","6.5783387"
-KG,"Kogi","Ibaji","7.5618910","6.5783387"
-KG,"Kogi","Idah","7.5618910","6.5783387"
-KG,"Kogi","Igalamela/odolu","7.5618910","6.5783387"
-KG,"Kogi","Ijumu","7.5618910","6.5783387"
-KG,"Kogi","Kabba/bunu","7.5618910","6.5783387"
-KG,"Kogi","Kogi . K. K.","7.5618910","6.5783387"
-KG,"Kogi","Lokoja","7.5618910","6.5783387"
-KG,"Kogi","Mopa Moro","7.5618910","6.5783387"
-KG,"Kogi","Ofu","7.5618910","6.5783387"
-KG,"Kogi","Ogori Mangogo","7.5618910","6.5783387"
-KG,"Kogi","Okehi","7.5618910","6.5783387"
-KG,"Kogi","Okene","7.5618910","6.5783387"
-KG,"Kogi","Olamaboro","7.5618910","6.5783387"
-KG,"Kogi","Omala","7.5618910","6.5783387"
-KG,"Kogi","Yagba East","7.5618910","6.5783387"
-KG,"Kogi","Yagba West","7.5618910","6.5783387"
-KW,"Kwara","Asa","8.9847995","4.5624426"
-KW,"Kwara","Baruten","8.9847995","4.5624426"
-KW,"Kwara","Edu","8.9847995","4.5624426"
-KW,"Kwara",EK,"Ekiti","8.9847995","4.5624426"
-KW,"Kwara","Ifelodun","8.9847995","4.5624426"
-KW,"Kwara","Ilorin East","8.9847995","4.5624426"
-KW,"Kwara","Ilorin-south","8.9847995","4.5624426"
-KW,"Kwara","Ilorin-west","8.9847995","4.5624426"
-KW,"Kwara","Irepodun","8.9847995","4.5624426"
-KW,"Kwara","Isin","8.9847995","4.5624426"
-KW,"Kwara","Kaiama","8.9847995","4.5624426"
-KW,"Kwara","Moro","8.9847995","4.5624426"
-KW,"Kwara","Offa","8.9847995","4.5624426"
-KW,"Kwara","Oke - Ero","8.9847995","4.5624426"
-KW,"Kwara","Oyun","8.9847995","4.5624426"
-KW,"Kwara","Patigi","8.9847995","4.5624426"
-LA,"Lagos","Agege","6.4530556","3.3958333"
-LA,"Lagos","Ajeromi/ifelodun","6.4530556","3.3958333"
-LA,"Lagos","Alimosho","6.4530556","3.3958333"
-LA,"Lagos","Amuwo-odofin","6.4530556","3.3958333"
-LA,"Lagos","Apapa","6.4530556","3.3958333"
-LA,"Lagos","Badagry","6.4530556","3.3958333"
-LA,"Lagos","Epe","6.4530556","3.3958333"
-LA,"Lagos","Eti-osa","6.4530556","3.3958333"
-LA,"Lagos","Ibeju/lekki","6.4530556","3.3958333"
-LA,"Lagos","Ifako-ijaye","6.4530556","3.3958333"
-LA,"Lagos","Ikeja","6.4530556","3.3958333"
-LA,"Lagos","Ikorodu","6.4530556","3.3958333"
-LA,"Lagos","Kosofe","6.4530556","3.3958333"
-LA,"Lagos","Lagos Island","6.4530556","3.3958333"
-LA,"Lagos","Lagos Mainland","6.4530556","3.3958333"
-LA,"Lagos","Mushin","6.4530556","3.3958333"
-LA,"Lagos","Ojo","6.4530556","3.3958333"
-LA,"Lagos","Oshodi/isolo","6.4530556","3.3958333"
-LA,"Lagos","Somolu","6.4530556","3.3958333"
-LA,"Lagos","Surulere","6.4530556","3.3958333"
-NS,"Nasarawa","Akwanga","8.5474692","7.7118003"
-NS,"Nasarawa","Awe","8.5474692","7.7118003"
-NS,"Nasarawa","Doma","8.5474692","7.7118003"
-NS,"Nasarawa","Karu","8.5474692","7.7118003"
-NS,"Nasarawa","Keana","8.5474692","7.7118003"
-NS,"Nasarawa","Keffi","8.5474692","7.7118003"
-NS,"Nasarawa","Kokona","8.5474692","7.7118003"
-NS,"Nasarawa","Lafia","8.5474692","7.7118003"
-NS,"Nasarawa",NS,"Nasarawa","8.5474692","7.7118003"
-NS,"Nasarawa","Nasarawa Eggon","8.5474692","7.7118003"
-NS,"Nasarawa","Obi","8.5474692","7.7118003"
-NS,"Nasarawa","Toto","8.5474692","7.7118003"
-NS,"Nasarawa","Wamba","8.5474692","7.7118003"
-NG,"Niger","Agaie","9.0819990","8.6752770"
-NG,"Niger","Agwara","9.0819990","8.6752770"
-NG,"Niger","Bida","9.0819990","8.6752770"
-NG,"Niger","Borgu","9.0819990","8.6752770"
-NG,"Niger","Bosso","9.0819990","8.6752770"
-NG,"Niger","Chanchaga","9.0819990","8.6752770"
-NG,"Niger","Edatti","9.0819990","8.6752770"
-NG,"Niger","Gbako","9.0819990","8.6752770"
-NG,"Niger","Gurara","9.0819990","8.6752770"
-NG,"Niger","Katcha","9.0819990","8.6752770"
-NG,"Niger","Kontagora","9.0819990","8.6752770"
-NG,"Niger","Lapai","9.0819990","8.6752770"
-NG,"Niger","Lavun","9.0819990","8.6752770"
-NG,"Niger","Magama","9.0819990","8.6752770"
-NG,"Niger","Mariga","9.0819990","8.6752770"
-NG,"Niger","Mashegu","9.0819990","8.6752770"
-NG,"Niger","Mokwa","9.0819990","8.6752770"
-NG,"Niger","Munya","9.0819990","8.6752770"
-NG,"Niger","Paikoro","9.0819990","8.6752770"
-NG,"Niger","Rafi","9.0819990","8.6752770"
-NG,"Niger","Rijau","9.0819990","8.6752770"
-NG,"Niger","Shiroro","9.0819990","8.6752770"
-NG,"Niger","Suleja","9.0819990","8.6752770"
-NG,"Niger","Tafa","9.0819990","8.6752770"
-NG,"Niger","Wushishi","9.0819990","8.6752770"
-OG,"Ogun","Abeokuta North","6.9098333","3.2583626"
-OG,"Ogun","Abeokuta South","6.9098333","3.2583626"
-OG,"Ogun","Ado Odo-ota","6.9098333","3.2583626"
-OG,"Ogun","Egbado North","6.9098333","3.2583626"
-OG,"Ogun","Egbado South","6.9098333","3.2583626"
-OG,"Ogun","Ewekoro","6.9098333","3.2583626"
-OG,"Ogun","Ifo","6.9098333","3.2583626"
-OG,"Ogun","Ijebu East","6.9098333","3.2583626"
-OG,"Ogun","Ijebu North","6.9098333","3.2583626"
-OG,"Ogun","Ijebu North East","6.9098333","3.2583626"
-OG,"Ogun","Ijebu Ode","6.9098333","3.2583626"
-OG,"Ogun","Ikenne","6.9098333","3.2583626"
-OG,"Ogun","Imeko/afon","6.9098333","3.2583626"
-OG,"Ogun","Ipokia","6.9098333","3.2583626"
-OG,"Ogun","Obafemi/owode","6.9098333","3.2583626"
-OG,"Ogun","Odeda","6.9098333","3.2583626"
-OG,"Ogun","Odogbolu","6.9098333","3.2583626"
-OG,"Ogun","Ogun Water Side","6.9098333","3.2583626"
-OG,"Ogun","Remo North","6.9098333","3.2583626"
-OG,"Ogun","Sagamu","6.9098333","3.2583626"
-OD,"Ondo","Akoko North East","7.0887210","4.8387630"
-OD,"Ondo","Akoko North West","7.0887210","4.8387630"
-OD,"Ondo","Akoko South East","7.0887210","4.8387630"
-OD,"Ondo","Akoko South West","7.0887210","4.8387630"
-OD,"Ondo","Akure North","7.0887210","4.8387630"
-OD,"Ondo","Akure South","7.0887210","4.8387630"
-OD,"Ondo","Ese-odo","7.0887210","4.8387630"
-OD,"Ondo","Idanre","7.0887210","4.8387630"
-OD,"Ondo","Ifedore","7.0887210","4.8387630"
-OD,"Ondo","Ilaje","7.0887210","4.8387630"
-OD,"Ondo","Ileoluji/okeigbo","7.0887210","4.8387630"
-OD,"Ondo","Irele","7.0887210","4.8387630"
-OD,"Ondo","Odigbo","7.0887210","4.8387630"
-OD,"Ondo","Okitipupa","7.0887210","4.8387630"
-OD,"Ondo","Ondo East","7.0887210","4.8387630"
-OD,"Ondo","Ondo West","7.0887210","4.8387630"
-OD,"Ondo","Ose","7.0887210","4.8387630"
-OD,"Ondo","Owo","7.0887210","4.8387630"
-OS,"Osun","Atakumosa East","7.9833330","5.0833330"
-OS,"Osun","Atakumosa West","7.9833330","5.0833330"
-OS,"Osun","Ayedaade","7.9833330","5.0833330"
-OS,"Osun","Ayedire","7.9833330","5.0833330"
-OS,"Osun","Boluwaduro","7.9833330","5.0833330"
-OS,"Osun","Boripe","7.9833330","5.0833330"
-OS,"Osun","Ede North","7.9833330","5.0833330"
-OS,"Osun","Ede South","7.9833330","5.0833330"
-OS,"Osun","Egbedore","7.9833330","5.0833330"
-OS,"Osun","Ejigbo","7.9833330","5.0833330"
-OS,"Osun","Ife Central","7.9833330","5.0833330"
-OS,"Osun","Ifedayo","7.9833330","5.0833330"
-OS,"Osun","Ife East","7.9833330","5.0833330"
-OS,"Osun","Ifelodun","7.9833330","5.0833330"
-OS,"Osun","Ife North","7.9833330","5.0833330"
-OS,"Osun","Ife South","7.9833330","5.0833330"
-OS,"Osun","Ila","7.9833330","5.0833330"
-OS,"Osun","Ilesa East","7.9833330","5.0833330"
-OS,"Osun","Ilesa West","7.9833330","5.0833330"
-OS,"Osun","Irepodun","7.9833330","5.0833330"
-OS,"Osun","Irewole","7.9833330","5.0833330"
-OS,"Osun","Isokan","7.9833330","5.0833330"
-OS,"Osun","Iwo","7.9833330","5.0833330"
-OS,"Osun","Obokun","7.9833330","5.0833330"
-OS,"Osun","Odo-otin","7.9833330","5.0833330"
-OS,"Osun","Ola-oluwa","7.9833330","5.0833330"
-OS,"Osun","Olorunda","7.9833330","5.0833330"
-OS,"Osun","Oriade","7.9833330","5.0833330"
-OS,"Osun","Orolu","7.9833330","5.0833330"
-OS,"Osun","Osogbo","7.9833330","5.0833330"
-OY,"Oyo","Afijio","7.8371540","3.9346520"
-OY,"Oyo","Akinyele","7.8371540","3.9346520"
-OY,"Oyo","Atiba","7.8371540","3.9346520"
-OY,"Oyo","Atisbo","7.8371540","3.9346520"
-OY,"Oyo","Egbeda","7.8371540","3.9346520"
-OY,"Oyo","Ibadan North","7.8371540","3.9346520"
-OY,"Oyo","Ibadan North East","7.8371540","3.9346520"
-OY,"Oyo","Ibadan North West","7.8371540","3.9346520"
-OY,"Oyo","Ibadan South-east","7.8371540","3.9346520"
-OY,"Oyo","Ibadan South West","7.8371540","3.9346520"
-OY,"Oyo","Ibarapa Central","7.8371540","3.9346520"
-OY,"Oyo","Ibarapa East","7.8371540","3.9346520"
-OY,"Oyo","Ibarapa North","7.8371540","3.9346520"
-OY,"Oyo","Ido","7.8371540","3.9346520"
-OY,"Oyo","Irepo","7.8371540","3.9346520"
-OY,"Oyo","Iseyin","7.8371540","3.9346520"
-OY,"Oyo","Itesiwaju","7.8371540","3.9346520"
-OY,"Oyo","Iwajowa","7.8371540","3.9346520"
-OY,"Oyo","Kajola","7.8371540","3.9346520"
-OY,"Oyo","Lagelu","7.8371540","3.9346520"
-OY,"Oyo","Ogbomoso North","7.8371540","3.9346520"
-OY,"Oyo","Ogbomoso South","7.8371540","3.9346520"
-OY,"Oyo","Ogo-oluwa","7.8371540","3.9346520"
-OY,"Oyo","Olorunsogo","7.8371540","3.9346520"
-OY,"Oyo","Oluyole","7.8371540","3.9346520"
-OY,"Oyo","Ona-ara","7.8371540","3.9346520"
-OY,"Oyo","Oorelope","7.8371540","3.9346520"
-OY,"Oyo","Ori Ire","7.8371540","3.9346520"
-OY,"Oyo","Oyo East","7.8371540","3.9346520"
-OY,"Oyo","Oyo West","7.8371540","3.9346520"
-OY,"Oyo","Saki East","7.8371540","3.9346520"
-OY,"Oyo","Saki West","7.8371540","3.9346520"
-OY,"Oyo","Surulere","7.8371540","3.9346520"
-PL,"Plateau","Jos North","9.2350817","9.7232673"
-PL,"Plateau","Barikin Ladi","9.2350817","9.7232673"
-PL,"Plateau","Bassa","9.2350817","9.7232673"
-PL,"Plateau","Bokkos","9.2350817","9.7232673"
-PL,"Plateau","Jos East","9.2350817","9.7232673"
-PL,"Plateau","Jos South","9.2350817","9.7232673"
-PL,"Plateau","Kanam","9.2350817","9.7232673"
-PL,"Plateau","Kanke","9.2350817","9.7232673"
-PL,"Plateau","Langtang North","9.2350817","9.7232673"
-PL,"Plateau","Langtang South","9.2350817","9.7232673"
-PL,"Plateau","Mangu","9.2350817","9.7232673"
-PL,"Plateau","Mikang","9.2350817","9.7232673"
-PL,"Plateau","Pankshin","9.2350817","9.7232673"
-PL,"Plateau","QUA'AN PAN","9.2350817","9.7232673"
-PL,"Plateau","Riyom","9.2350817","9.7232673"
-PL,"Plateau","Shendam","9.2350817","9.7232673"
-PL,"Plateau","Wase","9.2350817","9.7232673"
-RV,"Rivers","Abua-odual","4.8580767","6.9209135"
-RV,"Rivers","Ahoada East","4.8580767","6.9209135"
-RV,"Rivers","Ahoada West","4.8580767","6.9209135"
-RV,"Rivers","Akuku Toru","4.8580767","6.9209135"
-RV,"Rivers","Andoni","4.8580767","6.9209135"
-RV,"Rivers","Asari-toru","4.8580767","6.9209135"
-RV,"Rivers","Bonny","4.8580767","6.9209135"
-RV,"Rivers","Degema","4.8580767","6.9209135"
-RV,"Rivers","Eleme","4.8580767","6.9209135"
-RV,"Rivers","Emohua","4.8580767","6.9209135"
-RV,"Rivers","Etche","4.8580767","6.9209135"
-RV,"Rivers","Gokana","4.8580767","6.9209135"
-RV,"Rivers","Ikwerre","4.8580767","6.9209135"
-RV,"Rivers","Khana","4.8580767","6.9209135"
-RV,"Rivers","Obio/akpor","4.8580767","6.9209135"
-RV,"Rivers","Ogba/egbema/ndoni","4.8580767","6.9209135"
-RV,"Rivers","Ogu/bolo","4.8580767","6.9209135"
-RV,"Rivers","Okrika","4.8580767","6.9209135"
-RV,"Rivers","Omuma","4.8580767","6.9209135"
-RV,"Rivers","Opobo/nekoro","4.8580767","6.9209135"
-RV,"Rivers","Oyigbo","4.8580767","6.9209135"
-RV,"Rivers","Port Harcourt","4.8580767","6.9209135"
-RV,"Rivers","Tai","4.8580767","6.9209135"
-SO,"Sokoto","Binji","13.0666667","5.2333333"
-SO,"Sokoto","Bodinga","13.0666667","5.2333333"
-SO,"Sokoto","Dange/shuni","13.0666667","5.2333333"
-SO,"Sokoto","Gada","13.0666667","5.2333333"
-SO,"Sokoto","Goronyo","13.0666667","5.2333333"
-SO,"Sokoto","Gudu","13.0666667","5.2333333"
-SO,"Sokoto","Gwadabawa","13.0666667","5.2333333"
-SO,"Sokoto","Illela","13.0666667","5.2333333"
-SO,"Sokoto","Isa","13.0666667","5.2333333"
-SO,"Sokoto","Kware","13.0666667","5.2333333"
-SO,"Sokoto","Kebbe","13.0666667","5.2333333"
-SO,"Sokoto","Rabah","13.0666667","5.2333333"
-SO,"Sokoto","S/birni","13.0666667","5.2333333"
-SO,"Sokoto","Shagari","13.0666667","5.2333333"
-SO,"Sokoto","Silame","13.0666667","5.2333333"
-SO,"Sokoto","Sokoto North","13.0666667","5.2333333"
-SO,"Sokoto","Sokoto South","13.0666667","5.2333333"
-SO,"Sokoto","Tambuwal","13.0666667","5.2333333"
-SO,"Sokoto","Tangaza","13.0666667","5.2333333"
-SO,"Sokoto","Tureta","13.0666667","5.2333333"
-SO,"Sokoto","Wamakko","13.0666667","5.2333333"
-SO,"Sokoto","Wurno","13.0666667","5.2333333"
-SO,"Sokoto","Yabo","13.0666667","5.2333333"
-TR,"Taraba","Ardo - Kola","7.9868755","10.9807003"
-TR,"Taraba","Bali","7.9868755","10.9807003"
-TR,"Taraba","Donga","7.9868755","10.9807003"
-TR,"Taraba","Gashaka","7.9868755","10.9807003"
-TR,"Taraba","Gassol","7.9868755","10.9807003"
-TR,"Taraba","Ibi","7.9868755","10.9807003"
-TR,"Taraba","Jalingo","7.9868755","10.9807003"
-TR,"Taraba","Karim-lamido","7.9868755","10.9807003"
-TR,"Taraba","Kurmi","7.9868755","10.9807003"
-TR,"Taraba","Lau","7.9868755","10.9807003"
-TR,"Taraba","Sardauna","7.9868755","10.9807003"
-TR,"Taraba","Takum","7.9868755","10.9807003"
-TR,"Taraba","Ussa","7.9868755","10.9807003"
-TR,"Taraba","Wukari","7.9868755","10.9807003"
-TR,"Taraba","Yorro","7.9868755","10.9807003"
-TR,"Taraba","Zing","7.9868755","10.9807003"
-YB,"Yobe","Bade","12.1871412","11.7068294"
-YB,"Yobe","Bursari","12.1871412","11.7068294"
-YB,"Yobe","Damaturu","12.1871412","11.7068294"
-YB,"Yobe","Fika","12.1871412","11.7068294"
-YB,"Yobe","Fune","12.1871412","11.7068294"
-YB,"Yobe","Geidam","12.1871412","11.7068294"
-YB,"Yobe","Gujba","12.1871412","11.7068294"
-YB,"Yobe","Gulani","12.1871412","11.7068294"
-YB,"Yobe","Jakusko","12.1871412","11.7068294"
-YB,"Yobe","Karasawa","12.1871412","11.7068294"
-YB,"Yobe","Machina","12.1871412","11.7068294"
-YB,"Yobe","Nangere","12.1871412","11.7068294"
-YB,"Yobe","Nguru","12.1871412","11.7068294"
-YB,"Yobe","Potiskum","12.1871412","11.7068294"
-YB,"Yobe","Tarmuwa","12.1871412","11.7068294"
-YB,"Yobe","Yunusari","12.1871412","11.7068294"
-YB,"Yobe","Yusufari","12.1871412","11.7068294"
-ZM,"Zamfara","Anka","12.1844159","6.2375947"
-ZM,"Zamfara","Bakura","12.1844159","6.2375947"
-ZM,"Zamfara","Birnin Magaji","12.1844159","6.2375947"
-ZM,"Zamfara","Bukkuyum","12.1844159","6.2375947"
-ZM,"Zamfara","Bungudu","12.1844159","6.2375947"
-ZM,"Zamfara","Gummi","12.1844159","6.2375947"
-ZM,"Zamfara","Gusau","12.1844159","6.2375947"
-ZM,"Zamfara","Kaura Namoda","12.1844159","6.2375947"
-ZM,"Zamfara","Maradun","12.1844159","6.2375947"
-ZM,"Zamfara","Maru","12.1844159","6.2375947"
-ZM,"Zamfara","Shinkafi","12.1844159","6.2375947"
-ZM,"Zamfara","Talata Mafara","12.1844159","6.2375947"
-ZM,"Zamfara","Tsafe","12.1844159","6.2375947"
-ZM,"Zamfara","Zurmi","12.1844159","6.2375947"
+AB,Abia,Aba North,5.4308921,7.5247243
+AB,Abia,Aba South,5.4308921,7.5247243
+AB,Abia,Arochukwu,5.4308921,7.5247243
+AB,Abia,Bende,5.4308921,7.5247243
+AB,Abia,Ikwuano,5.4308921,7.5247243
+AB,Abia,Isiala Ngwa North,5.4308921,7.5247243
+AB,Abia,Isiala Ngwa South,5.4308921,7.5247243
+AB,Abia,Isuikwuato,5.4308921,7.5247243
+AB,Abia,Obingwa,5.4308921,7.5247243
+AB,Abia,Ohafia,5.4308921,7.5247243
+AB,Abia,Osisioma,5.4308921,7.5247243
+AB,Abia,Ugwunagbo,5.4308921,7.5247243
+AB,Abia,Ukwa East,5.4308921,7.5247243
+AB,Abia,Ukwa  West,5.4308921,7.5247243
+AB,Abia,Umuahia North,5.4308921,7.5247243
+AB,Abia,Umuahia  South,5.4308921,7.5247243
+AB,Abia,Umu - Nneochi,5.4308921,7.5247243
+AD,Adamawa,Demsa,9.3250497,12.4380581
+AD,Adamawa,Fufore,9.3250497,12.4380581
+AD,Adamawa,Ganye,9.3250497,12.4380581
+AD,Adamawa,Gire 1,9.3250497,12.4380581
+AD,Adamawa,Gombi,9.3250497,12.4380581
+AD,Adamawa,Guyuk,9.3250497,12.4380581
+AD,Adamawa,Hong,9.3250497,12.4380581
+AD,Adamawa,Jada,9.3250497,12.4380581
+AD,Adamawa,Lamurde,9.3250497,12.4380581
+AD,Adamawa,Madagali,9.3250497,12.4380581
+AD,Adamawa,Maiha,9.3250497,12.4380581
+AD,Adamawa,Mayo - Belwa,9.3250497,12.4380581
+AD,Adamawa,Michika,9.3250497,12.4380581
+AD,Adamawa,Mubi North,9.3250497,12.4380581
+AD,Adamawa,Mubi South,9.3250497,12.4380581
+AD,Adamawa,Numan,9.3250497,12.4380581
+AD,Adamawa,Shelleng,9.3250497,12.4380581
+AD,Adamawa,Song,9.3250497,12.4380581
+AD,Adamawa,Toungo,9.3250497,12.4380581
+AD,Adamawa,Yola North,9.3250497,12.4380581
+AD,Adamawa,Yola South,9.3250497,12.4380581
+AK,Akwa Ibom,Abak,4.9299869,7.87216
+AK,Akwa Ibom,Eastern Obolo,4.9299869,7.87216
+AK,Akwa Ibom,Eket,4.9299869,7.87216
+AK,Akwa Ibom,Esit Eket (uquo),4.9299869,7.87216
+AK,Akwa Ibom,Essien Udim,4.9299869,7.87216
+AK,Akwa Ibom,Etim Ekpo,4.9299869,7.87216
+AK,Akwa Ibom,Etinan,4.9299869,7.87216
+AK,Akwa Ibom,Ibeno,4.9299869,7.87216
+AK,Akwa Ibom,Ibesikpo Asutan,4.9299869,7.87216
+AK,Akwa Ibom,Ibiono Ibom,4.9299869,7.87216
+AK,Akwa Ibom,Ika,4.9299869,7.87216
+AK,Akwa Ibom,Ikono,4.9299869,7.87216
+AK,Akwa Ibom,Ikot Abasi,4.9299869,7.87216
+AK,Akwa Ibom,Ikot Ekpene,4.9299869,7.87216
+AK,Akwa Ibom,Ini,4.9299869,7.87216
+AK,Akwa Ibom,Itu,4.9299869,7.87216
+AK,Akwa Ibom,Mbo,4.9299869,7.87216
+AK,Akwa Ibom,Mkpat Enin,4.9299869,7.87216
+AK,Akwa Ibom,Nsit Atai,4.9299869,7.87216
+AK,Akwa Ibom,Nsit Ibom,4.9299869,7.87216
+AK,Akwa Ibom,Nsit Ubium,4.9299869,7.87216
+AK,Akwa Ibom,Obot Akara,4.9299869,7.87216
+AK,Akwa Ibom,Okobo,4.9299869,7.87216
+AK,Akwa Ibom,Onna,4.9299869,7.87216
+AK,Akwa Ibom,Oron,4.9299869,7.87216
+AK,Akwa Ibom,Oruk Anam,4.9299869,7.87216
+AK,Akwa Ibom,Udung Uko,4.9299869,7.87216
+AK,Akwa Ibom,Ukanafun,4.9299869,7.87216
+AK,Akwa Ibom,Uruan,4.9299869,7.87216
+AK,Akwa Ibom,Urue Offong/oruko,4.9299869,7.87216
+AK,Akwa Ibom,Uyo,4.9299869,7.87216
+AN,Anambra,Aguata,6.2757656,7.0068393
+AN,Anambra,Ayamelum,6.2757656,7.0068393
+AN,Anambra,Anambra East,6.2757656,7.0068393
+AN,Anambra,Anambra West,6.2757656,7.0068393
+AN,Anambra,Anaocha,6.2757656,7.0068393
+AN,Anambra,Awka North,6.2757656,7.0068393
+AN,Anambra,Awka South,6.2757656,7.0068393
+AN,Anambra,Dunukofia,6.2757656,7.0068393
+AN,Anambra,Ekwusigo,6.2757656,7.0068393
+AN,Anambra,Idemili North,6.2757656,7.0068393
+AN,Anambra,Idemili-south,6.2757656,7.0068393
+AN,Anambra,Ihala,6.2757656,7.0068393
+AN,Anambra,Njikoka,6.2757656,7.0068393
+AN,Anambra,Nnewi North,6.2757656,7.0068393
+AN,Anambra,Nnewi South,6.2757656,7.0068393
+AN,Anambra,Ogbaru,6.2757656,7.0068393
+AN,Anambra,Onitsha-north,6.2757656,7.0068393
+AN,Anambra,Onitsha -south,6.2757656,7.0068393
+AN,Anambra,Orumba North,6.2757656,7.0068393
+AN,Anambra,Orumba  South,6.2757656,7.0068393
+AN,Anambra,Oyi,6.2757656,7.0068393
+BA,Bauchi,Alkaleri,10.30982,9.845172
+BA,Bauchi,Bauchi,10.30982,9.845172
+BA,Bauchi,Bogoro,10.30982,9.845172
+BA,Bauchi,Dambam,10.30982,9.845172
+BA,Bauchi,Darazo,10.30982,9.845172
+BA,Bauchi,Dass,10.30982,9.845172
+BA,Bauchi,Gamawa,10.30982,9.845172
+BA,Bauchi,Ganjuwa,10.30982,9.845172
+BA,Bauchi,Giade,10.30982,9.845172
+BA,Bauchi,Itas/gadau,10.30982,9.845172
+BA,Bauchi,JAMA'ARE,10.30982,9.845172
+BA,Bauchi,Katagum,10.30982,9.845172
+BA,Bauchi,Kirfi,10.30982,9.845172
+BA,Bauchi,Misau,10.30982,9.845172
+BA,Bauchi,Ningi,10.30982,9.845172
+BA,Bauchi,Shira,10.30982,9.845172
+BA,Bauchi,Tafawa Balewa,10.30982,9.845172
+BA,Bauchi,Toro,10.30982,9.845172
+BA,Bauchi,Warji,10.30982,9.845172
+BA,Bauchi,Zaki,10.30982,9.845172
+BY,Bayelsa,Brass,4.8677767,5.8987139
+BY,Bayelsa,Ekeremor,4.8677767,5.8987139
+BY,Bayelsa,Kolokuma/opokuma,4.8677767,5.8987139
+BY,Bayelsa,Nembe,4.8677767,5.8987139
+BY,Bayelsa,Ogbia,4.8677767,5.8987139
+BY,Bayelsa,Sagbama,4.8677767,5.8987139
+BY,Bayelsa,Southern Ijaw,4.8677767,5.8987139
+BY,Bayelsa,Yenagoa,4.8677767,5.8987139
+BN,Benue,Ado,7.3508259,8.8362755
+BN,Benue,Agatu,7.3508259,8.8362755
+BN,Benue,Apa,7.3508259,8.8362755
+BN,Benue,Buruku,7.3508259,8.8362755
+BN,Benue,Gboko,7.3508259,8.8362755
+BN,Benue,Guma,7.3508259,8.8362755
+BN,Benue,Gwer East,7.3508259,8.8362755
+BN,Benue,Gwer West,7.3508259,8.8362755
+BN,Benue,Katsina-ala,7.3508259,8.8362755
+BN,Benue,Konshisha,7.3508259,8.8362755
+BN,Benue,Kwande,7.3508259,8.8362755
+BN,Benue,Logo,7.3508259,8.8362755
+BN,Benue,Makurdi,7.3508259,8.8362755
+BN,Benue,Obi,7.3508259,8.8362755
+BN,Benue,Ogbadibo,7.3508259,8.8362755
+BN,Benue,Oju,7.3508259,8.8362755
+BN,Benue,Ohimini,7.3508259,8.8362755
+BN,Benue,Okpokwu,7.3508259,8.8362755
+BN,Benue,Otukpo,7.3508259,8.8362755
+BN,Benue,Tarka,7.3508259,8.8362755
+BN,Benue,Ukum,7.3508259,8.8362755
+BN,Benue,Ushongo,7.3508259,8.8362755
+BN,Benue,Vandeikya,7.3508259,8.8362755
+BO,Borno,Abadam,12.1205201,13.1740348
+BO,Borno,Askira / Uba,12.1205201,13.1740348
+BO,Borno,Bama,12.1205201,13.1740348
+BO,Borno,Bayo,12.1205201,13.1740348
+BO,Borno,Biu,12.1205201,13.1740348
+BO,Borno,Chibok,12.1205201,13.1740348
+BO,Borno,Damboa,12.1205201,13.1740348
+BO,Borno,Dikwa,12.1205201,13.1740348
+BO,Borno,Gubio,12.1205201,13.1740348
+BO,Borno,Guzamala,12.1205201,13.1740348
+BO,Borno,Gwoza,12.1205201,13.1740348
+BO,Borno,Hawul,12.1205201,13.1740348
+BO,Borno,Jere,12.1205201,13.1740348
+BO,Borno,Kaga,12.1205201,13.1740348
+BO,Borno,Kala Balge,12.1205201,13.1740348
+BO,Borno,Konduga,12.1205201,13.1740348
+BO,Borno,Kukawa,12.1205201,13.1740348
+BO,Borno,Kwaya / Kusar,12.1205201,13.1740348
+BO,Borno,Mafa,12.1205201,13.1740348
+BO,Borno,Magumeri,12.1205201,13.1740348
+BO,Borno,Maiduguri M. C.,12.1205201,13.1740348
+BO,Borno,Marte,12.1205201,13.1740348
+BO,Borno,Mobbar,12.1205201,13.1740348
+BO,Borno,Monguno,12.1205201,13.1740348
+BO,Borno,Ngala,12.1205201,13.1740348
+BO,Borno,Nganzai,12.1205201,13.1740348
+BO,Borno,Shani,12.1205201,13.1740348
+CR,Cross River,Abi,5.5805318,8.7481167
+CR,Cross River,Akamkpa,5.5805318,8.7481167
+CR,Cross River,Akpabuyo,5.5805318,8.7481167
+CR,Cross River,Bakassi,5.5805318,8.7481167
+CR,Cross River,Bekwarra,5.5805318,8.7481167
+CR,Cross River,Biase,5.5805318,8.7481167
+CR,Cross River,Boki,5.5805318,8.7481167
+CR,Cross River,Calabar Municipality,5.5805318,8.7481167
+CR,Cross River,Calabar South,5.5805318,8.7481167
+CR,Cross River,Etung,5.5805318,8.7481167
+CR,Cross River,Ikom,5.5805318,8.7481167
+CR,Cross River,Obanliku,5.5805318,8.7481167
+CR,Cross River,Obubra,5.5805318,8.7481167
+CR,Cross River,Obudu,5.5805318,8.7481167
+CR,Cross River,Odukpani,5.5805318,8.7481167
+CR,Cross River,Ogoja,5.5805318,8.7481167
+CR,Cross River,Yakurr,5.5805318,8.7481167
+CR,Cross River,Yala,5.5805318,8.7481167
+DT,Delta,Aniocha North,5.5324624,5.8987139
+DT,Delta,Aniocha - South,5.5324624,5.8987139
+DT,Delta,Bomadi,5.5324624,5.8987139
+DT,Delta,Burutu,5.5324624,5.8987139
+DT,Delta,Ethiope  East,5.5324624,5.8987139
+DT,Delta,Ethiope  West,5.5324624,5.8987139
+DT,Delta,Ika North- East,5.5324624,5.8987139
+DT,Delta,Ika - South,5.5324624,5.8987139
+DT,Delta,Isoko North,5.5324624,5.8987139
+DT,Delta,Isoko South,5.5324624,5.8987139
+DT,Delta,Ndokwa East,5.5324624,5.8987139
+DT,Delta,Ndokwa West,5.5324624,5.8987139
+DT,Delta,Okpe,5.5324624,5.8987139
+DT,Delta,Oshimili - North,5.5324624,5.8987139
+DT,Delta,Oshimili - South,5.5324624,5.8987139
+DT,Delta,Patani,5.5324624,5.8987139
+DT,Delta,Sapele,5.5324624,5.8987139
+DT,Delta,Udu,5.5324624,5.8987139
+DT,Delta,Ughelli North,5.5324624,5.8987139
+DT,Delta,Ughelli South,5.5324624,5.8987139
+DT,Delta,Ukwuani,5.5324624,5.8987139
+DT,Delta,Uvwie,5.5324624,5.8987139
+DT,Delta,Warri  North,5.5324624,5.8987139
+DT,Delta,Warri South,5.5324624,5.8987139
+DT,Delta,Warri South  West,5.5324624,5.8987139
+EB,Ebonyi,Abakaliki,6.177973,7.9592863
+EB,Ebonyi,Afikpo North,6.177973,7.9592863
+EB,Ebonyi,Afikpo  South,6.177973,7.9592863
+EB,Ebonyi,Ebonyi,6.177973,7.9592863
+EB,Ebonyi,Ezza North,6.177973,7.9592863
+EB,Ebonyi,Ezza South,6.177973,7.9592863
+EB,Ebonyi,Ikwo,6.177973,7.9592863
+EB,Ebonyi,Ishielu,6.177973,7.9592863
+EB,Ebonyi,Ivo,6.177973,7.9592863
+EB,Ebonyi,Izzi,6.177973,7.9592863
+EB,Ebonyi,Ohaozara,6.177973,7.9592863
+EB,Ebonyi,Ohaukwu,6.177973,7.9592863
+EB,Ebonyi,Onicha,6.177973,7.9592863
+ED,Edo,Akoko Edo,6.5438101,5.8987139
+ED,Edo,Egor,6.5438101,5.8987139
+ED,Edo,Esan Central,6.5438101,5.8987139
+ED,Edo,Esan North East,6.5438101,5.8987139
+ED,Edo,Esan South East,6.5438101,5.8987139
+ED,Edo,Esan West,6.5438101,5.8987139
+ED,Edo,Etsako Central,6.5438101,5.8987139
+ED,Edo,Etsako East,6.5438101,5.8987139
+ED,Edo,Etsako  West,6.5438101,5.8987139
+ED,Edo,Igueben,6.5438101,5.8987139
+ED,Edo,Ikpoba/okha,6.5438101,5.8987139
+ED,Edo,Oredo,6.5438101,5.8987139
+ED,Edo,Orhionmwon,6.5438101,5.8987139
+ED,Edo,Ovia North East,6.5438101,5.8987139
+ED,Edo,Ovia South West,6.5438101,5.8987139
+ED,Edo,Owan East,6.5438101,5.8987139
+ED,Edo,Owan West,6.5438101,5.8987139
+ED,Edo,Uhunmwode,6.5438101,5.8987139
+EK,Ekiti,Ado Ekiti,7.6655813,5.3102505
+EK,Ekiti,Efon,7.6655813,5.3102505
+EK,Ekiti,Ekiti East,7.6655813,5.3102505
+EK,Ekiti,Ekiti West,7.6655813,5.3102505
+EK,Ekiti,Ekiti South West,7.6655813,5.3102505
+EK,Ekiti,Emure,7.6655813,5.3102505
+EK,Ekiti,Gbonyin,7.6655813,5.3102505
+EK,Ekiti,Ido / Osi,7.6655813,5.3102505
+EK,Ekiti,Ijero,7.6655813,5.3102505
+EK,Ekiti,Ikere,7.6655813,5.3102505
+EK,Ekiti,Ikole,7.6655813,5.3102505
+EK,Ekiti,Ilejemeje,7.6655813,5.3102505
+EK,Ekiti,Irepodun / Ifelodun,7.6655813,5.3102505
+EK,Ekiti,Ise / Orun,7.6655813,5.3102505
+EK,Ekiti,Moba,7.6655813,5.3102505
+EK,Ekiti,Oye,7.6655813,5.3102505
+EN,Enugu,Aninri,6.4526667,7.5103333
+EN,Enugu,Awgu,6.4526667,7.5103333
+EN,Enugu,Enugu East,6.4526667,7.5103333
+EN,Enugu,Enugu North,6.4526667,7.5103333
+EN,Enugu,Enugu South,6.4526667,7.5103333
+EN,Enugu,Ezeagu,6.4526667,7.5103333
+EN,Enugu,Igbo Etiti,6.4526667,7.5103333
+EN,Enugu,Igbo Eze North,6.4526667,7.5103333
+EN,Enugu,Igbo Eze South,6.4526667,7.5103333
+EN,Enugu,Isi Uzo,6.4526667,7.5103333
+EN,Enugu,Nkanu East,6.4526667,7.5103333
+EN,Enugu,Nkanu West,6.4526667,7.5103333
+EN,Enugu,Nsukka,6.4526667,7.5103333
+EN,Enugu,Oji-river,6.4526667,7.5103333
+EN,Enugu,Udenu,6.4526667,7.5103333
+EN,Enugu,Udi,6.4526667,7.5103333
+EN,Enugu,Uzo-uwani,6.4526667,7.5103333
+FC,Fct,Abaji,8.8556838,7.179026
+FC,Fct,Bwari,8.8556838,7.179026
+FC,Fct,Gwagwalada,8.8556838,7.179026
+FC,Fct,Kuje,8.8556838,7.179026
+FC,Fct,Kwali,8.8556838,7.179026
+FC,Fct,Municipal,8.8556838,7.179026
+GM,Gombe,Akko,10.2824,11.17479
+GM,Gombe,Balanga,10.2824,11.17479
+GM,Gombe,Billiri,10.2824,11.17479
+GM,Gombe,Dukku,10.2824,11.17479
+GM,Gombe,Funakaye,10.2824,11.17479
+GM,Gombe,Gombe,10.2824,11.17479
+GM,Gombe,Kaltungo,10.2824,11.17479
+GM,Gombe,Kwami,10.2824,11.17479
+GM,Gombe,Nafada,10.2824,11.17479
+GM,Gombe,Shongom,10.2824,11.17479
+GM,Gombe,Yalmaltu/ Deba,10.2824,11.17479
+IM,Imo,Aboh Mbaise,5.5214533,6.9209135
+IM,Imo,Ahiazu Mbaise,5.5214533,6.9209135
+IM,Imo,Ehime Mbano,5.5214533,6.9209135
+IM,Imo,Ezinihitte Mbaise,5.5214533,6.9209135
+IM,Imo,Ideato North,5.5214533,6.9209135
+IM,Imo,Ideato South,5.5214533,6.9209135
+IM,Imo,Ihitte/uboma (isinweke),5.5214533,6.9209135
+IM,Imo,Ikeduru (iho),5.5214533,6.9209135
+IM,Imo,Isiala Mbano (umuelemai),5.5214533,6.9209135
+IM,Imo,Isu (umundugba),5.5214533,6.9209135
+IM,Imo,Mbaitoli (nwaorieubi),5.5214533,6.9209135
+IM,Imo,Ngor Okpala (umuneke),5.5214533,6.9209135
+IM,Imo,Njaba (nnenasa),5.5214533,6.9209135
+IM,Imo,Nkwerre,5.5214533,6.9209135
+IM,Imo,Nwangele (onu-nwangele Amaigbo),5.5214533,6.9209135
+IM,Imo,Obowo (otoko),5.5214533,6.9209135
+IM,Imo,Oguta (oguta),5.5214533,6.9209135
+IM,Imo,Ohaji/egbema (mmahu-egbema),5.5214533,6.9209135
+IM,Imo,Okigwe  (okigwe),5.5214533,6.9209135
+IM,Imo,Onuimo (okwe),5.5214533,6.9209135
+IM,Imo,Orlu,5.5214533,6.9209135
+IM,Imo,Orsu (awo Idemili),5.5214533,6.9209135
+IM,Imo,Oru-east,5.5214533,6.9209135
+IM,Imo,Oru West (mgbidi),5.5214533,6.9209135
+IM,Imo,Owerri Municipal,5.5214533,6.9209135
+IM,Imo,Owerri North (orie Uratta),5.5214533,6.9209135
+IM,Imo,Owerri West (umuguma),5.5214533,6.9209135
+JG,Jigawa,Auyo,12.4460001,9.7232673
+JG,Jigawa,Babura,12.4460001,9.7232673
+JG,Jigawa,Birnin Kudu,12.4460001,9.7232673
+JG,Jigawa,Birniwa,12.4460001,9.7232673
+JG,Jigawa,Buji,12.4460001,9.7232673
+JG,Jigawa,Dutse,12.4460001,9.7232673
+JG,Jigawa,Garki,12.4460001,9.7232673
+JG,Jigawa,Gagarawa,12.4460001,9.7232673
+JG,Jigawa,Gumel,12.4460001,9.7232673
+JG,Jigawa,Guri,12.4460001,9.7232673
+JG,Jigawa,Gwaram,12.4460001,9.7232673
+JG,Jigawa,Gwiwa,12.4460001,9.7232673
+JG,Jigawa,Hadejia,12.4460001,9.7232673
+JG,Jigawa,Jahun,12.4460001,9.7232673
+JG,Jigawa,Kafin Hausa,12.4460001,9.7232673
+JG,Jigawa,Kaugama,12.4460001,9.7232673
+JG,Jigawa,Kazaure,12.4460001,9.7232673
+JG,Jigawa,Kirika Samma,12.4460001,9.7232673
+JG,Jigawa,Kiyawa,12.4460001,9.7232673
+JG,Jigawa,Maigatari,12.4460001,9.7232673
+JG,Jigawa,Malam Madori,12.4460001,9.7232673
+JG,Jigawa,Miga,12.4460001,9.7232673
+JG,Jigawa,Ringim,12.4460001,9.7232673
+JG,Jigawa,Roni,12.4460001,9.7232673
+JG,Jigawa,Sule-tankarkar,12.4460001,9.7232673
+JG,Jigawa,Taura,12.4460001,9.7232673
+JG,Jigawa,Yankwashi,12.4460001,9.7232673
+KD,Kaduna,Birnin Gwari,10.5166667,7.4333333
+KD,Kaduna,Chikun,10.5166667,7.4333333
+KD,Kaduna,Giwa,10.5166667,7.4333333
+KD,Kaduna,Igabi,10.5166667,7.4333333
+KD,Kaduna,Ikara,10.5166667,7.4333333
+KD,Kaduna,Jaba,10.5166667,7.4333333
+KD,Kaduna,JEMA'A,10.5166667,7.4333333
+KD,Kaduna,Kachia,10.5166667,7.4333333
+KD,Kaduna,Kaduna North,10.5166667,7.4333333
+KD,Kaduna,Kaduna South,10.5166667,7.4333333
+KD,Kaduna,Kagarko,10.5166667,7.4333333
+KD,Kaduna,Kajuru,10.5166667,7.4333333
+KD,Kaduna,Kaura,10.5166667,7.4333333
+KD,Kaduna,Kauru,10.5166667,7.4333333
+KD,Kaduna,Kubau,10.5166667,7.4333333
+KD,Kaduna,Kudan,10.5166667,7.4333333
+KD,Kaduna,Lere,10.5166667,7.4333333
+KD,Kaduna,Makarfi,10.5166667,7.4333333
+KD,Kaduna,Sabon Gari,10.5166667,7.4333333
+KD,Kaduna,Sanga,10.5166667,7.4333333
+KD,Kaduna,Soba,10.5166667,7.4333333
+KD,Kaduna,Zangon Kataf,10.5166667,7.4333333
+KD,Kaduna,Zaria,10.5166667,7.4333333
+KN,Kano,Ajingi,12,8.516667
+KN,Kano,Albasu,12,8.516667
+KN,Kano,Bagwai,12,8.516667
+KN,Kano,Bebeji,12,8.516667
+KN,Kano,Bichi,12,8.516667
+KN,Kano,Bunkure,12,8.516667
+KN,Kano,Dala,12,8.516667
+KN,Kano,Danbata,12,8.516667
+KN,Kano,Dawaki Kudu,12,8.516667
+KN,Kano,Dawaki Tofa,12,8.516667
+KN,Kano,Doguwa,12,8.516667
+KN,Kano,Fagge,12,8.516667
+KN,Kano,Gabasawa,12,8.516667
+KN,Kano,Garko,12,8.516667
+KN,Kano,Garun Malam,12,8.516667
+KN,Kano,Gaya,12,8.516667
+KN,Kano,Gezawa,12,8.516667
+KN,Kano,Gwale,12,8.516667
+KN,Kano,Gwarzo,12,8.516667
+KN,Kano,Kabo,12,8.516667
+KN,Kano,Kano Municipal,12,8.516667
+KN,Kano,Karaye,12,8.516667
+KN,Kano,Kibiya,12,8.516667
+KN,Kano,Kiru,12,8.516667
+KN,Kano,Kumbotso,12,8.516667
+KN,Kano,Kunchi,12,8.516667
+KN,Kano,Kura,12,8.516667
+KN,Kano,Madobi,12,8.516667
+KN,Kano,Makoda,12,8.516667
+KN,Kano,Minjibir,12,8.516667
+KN,Kano,Nasarawa,12,8.516667
+KN,Kano,Rano,12,8.516667
+KN,Kano,Rimin Gado,12,8.516667
+KN,Kano,Rogo,12,8.516667
+KN,Kano,Shanono,12,8.516667
+KN,Kano,Sumaila,12,8.516667
+KN,Kano,Takai,12,8.516667
+KN,Kano,Tarauni,12,8.516667
+KN,Kano,Tofa,12,8.516667
+KN,Kano,Tsanyawa,12,8.516667
+KN,Kano,Tudun Wada,12,8.516667
+KN,Kano,Ungogo,12,8.516667
+KN,Kano,Warawa,12,8.516667
+KN,Kano,Wudil,12,8.516667
+KT,Katsina,Bakori,12.99302,7.606163
+KT,Katsina,Batagarawa,12.99302,7.606163
+KT,Katsina,Batsari,12.99302,7.606163
+KT,Katsina,Baure,12.99302,7.606163
+KT,Katsina,Bindawa,12.99302,7.606163
+KT,Katsina,Charanchi,12.99302,7.606163
+KT,Katsina,Dandume,12.99302,7.606163
+KT,Katsina,Danja,12.99302,7.606163
+KT,Katsina,Dan Musa,12.99302,7.606163
+KT,Katsina,Daura,12.99302,7.606163
+KT,Katsina,Dutsi,12.99302,7.606163
+KT,Katsina,Dutsin-ma,12.99302,7.606163
+KT,Katsina,Faskari,12.99302,7.606163
+KT,Katsina,Funtua,12.99302,7.606163
+KT,Katsina,Ingawa,12.99302,7.606163
+KT,Katsina,Jibia,12.99302,7.606163
+KT,Katsina,Kafur,12.99302,7.606163
+KT,Katsina,Kaita,12.99302,7.606163
+KT,Katsina,Kankara,12.99302,7.606163
+KT,Katsina,Kankia,12.99302,7.606163
+KT,Katsina,Katsina,12.99302,7.606163
+KT,Katsina,Kurfi,12.99302,7.606163
+KT,Katsina,Kusada,12.99302,7.606163
+KT,Katsina,MAI'ADUA,12.99302,7.606163
+KT,Katsina,Malufashi,12.99302,7.606163
+KT,Katsina,Mani,12.99302,7.606163
+KT,Katsina,Mashi,12.99302,7.606163
+KT,Katsina,Matazu,12.99302,7.606163
+KT,Katsina,Musawa,12.99302,7.606163
+KT,Katsina,Rimi,12.99302,7.606163
+KT,Katsina,Sabuwa,12.99302,7.606163
+KT,Katsina,Safana,12.99302,7.606163
+KT,Katsina,Sandamu,12.99302,7.606163
+KT,Katsina,Zango,12.99302,7.606163
+KB,Kebbi,Aliero,11.6781241,4.0695454
+KB,Kebbi,Arewa,11.6781241,4.0695454
+KB,Kebbi,Argungu,11.6781241,4.0695454
+KB,Kebbi,Augie,11.6781241,4.0695454
+KB,Kebbi,Bagudo,11.6781241,4.0695454
+KB,Kebbi,Birnin Kebbi,11.6781241,4.0695454
+KB,Kebbi,Bunza,11.6781241,4.0695454
+KB,Kebbi,Dandi,11.6781241,4.0695454
+KB,Kebbi,Fakai,11.6781241,4.0695454
+KB,Kebbi,Gwandu,11.6781241,4.0695454
+KB,Kebbi,Jega,11.6781241,4.0695454
+KB,Kebbi,Kalgo,11.6781241,4.0695454
+KB,Kebbi,Koko/besse,11.6781241,4.0695454
+KB,Kebbi,Maiyama,11.6781241,4.0695454
+KB,Kebbi,Ngaski,11.6781241,4.0695454
+KB,Kebbi,Sakaba,11.6781241,4.0695454
+KB,Kebbi,Shanga,11.6781241,4.0695454
+KB,Kebbi,Suru,11.6781241,4.0695454
+KB,Kebbi,Wasagu/danko,11.6781241,4.0695454
+KB,Kebbi,Yauri,11.6781241,4.0695454
+KB,Kebbi,Zuru,11.6781241,4.0695454
+KG,Kogi,Adavi,7.561891,6.5783387
+KG,Kogi,Ajaokuta,7.561891,6.5783387
+KG,Kogi,Ankpa,7.561891,6.5783387
+KG,Kogi,Bassa,7.561891,6.5783387
+KG,Kogi,Dekina,7.561891,6.5783387
+KG,Kogi,Ibaji,7.561891,6.5783387
+KG,Kogi,Idah,7.561891,6.5783387
+KG,Kogi,Igalamela/odolu,7.561891,6.5783387
+KG,Kogi,Ijumu,7.561891,6.5783387
+KG,Kogi,Kabba/bunu,7.561891,6.5783387
+KG,Kogi,Kogi . K. K.,7.561891,6.5783387
+KG,Kogi,Lokoja,7.561891,6.5783387
+KG,Kogi,Mopa Moro,7.561891,6.5783387
+KG,Kogi,Ofu,7.561891,6.5783387
+KG,Kogi,Ogori Mangogo,7.561891,6.5783387
+KG,Kogi,Okehi,7.561891,6.5783387
+KG,Kogi,Okene,7.561891,6.5783387
+KG,Kogi,Olamaboro,7.561891,6.5783387
+KG,Kogi,Omala,7.561891,6.5783387
+KG,Kogi,Yagba East,7.561891,6.5783387
+KG,Kogi,Yagba West,7.561891,6.5783387
+KW,Kwara,Asa,8.9847995,4.5624426
+KW,Kwara,Baruten,8.9847995,4.5624426
+KW,Kwara,Edu,8.9847995,4.5624426
+KW,Kwara,Ekiti,8.9847995,4.5624426
+KW,Kwara,Ifelodun,8.9847995,4.5624426
+KW,Kwara,Ilorin East,8.9847995,4.5624426
+KW,Kwara,Ilorin-south,8.9847995,4.5624426
+KW,Kwara,Ilorin-west,8.9847995,4.5624426
+KW,Kwara,Irepodun,8.9847995,4.5624426
+KW,Kwara,Isin,8.9847995,4.5624426
+KW,Kwara,Kaiama,8.9847995,4.5624426
+KW,Kwara,Moro,8.9847995,4.5624426
+KW,Kwara,Offa,8.9847995,4.5624426
+KW,Kwara,Oke - Ero,8.9847995,4.5624426
+KW,Kwara,Oyun,8.9847995,4.5624426
+KW,Kwara,Patigi,8.9847995,4.5624426
+LA,Lagos,Agege,6.4530556,3.3958333
+LA,Lagos,Ajeromi/ifelodun,6.4530556,3.3958333
+LA,Lagos,Alimosho,6.4530556,3.3958333
+LA,Lagos,Amuwo-odofin,6.4530556,3.3958333
+LA,Lagos,Apapa,6.4530556,3.3958333
+LA,Lagos,Badagry,6.4530556,3.3958333
+LA,Lagos,Epe,6.4530556,3.3958333
+LA,Lagos,Eti-osa,6.4530556,3.3958333
+LA,Lagos,Ibeju/lekki,6.4530556,3.3958333
+LA,Lagos,Ifako-ijaye,6.4530556,3.3958333
+LA,Lagos,Ikeja,6.4530556,3.3958333
+LA,Lagos,Ikorodu,6.4530556,3.3958333
+LA,Lagos,Kosofe,6.4530556,3.3958333
+LA,Lagos,Lagos Island,6.4530556,3.3958333
+LA,Lagos,Lagos Mainland,6.4530556,3.3958333
+LA,Lagos,Mushin,6.4530556,3.3958333
+LA,Lagos,Ojo,6.4530556,3.3958333
+LA,Lagos,Oshodi/isolo,6.4530556,3.3958333
+LA,Lagos,Somolu,6.4530556,3.3958333
+LA,Lagos,Surulere,6.4530556,3.3958333
+NS,Nasarawa,Akwanga,8.5474692,7.7118003
+NS,Nasarawa,Awe,8.5474692,7.7118003
+NS,Nasarawa,Doma,8.5474692,7.7118003
+NS,Nasarawa,Karu,8.5474692,7.7118003
+NS,Nasarawa,Keana,8.5474692,7.7118003
+NS,Nasarawa,Keffi,8.5474692,7.7118003
+NS,Nasarawa,Kokona,8.5474692,7.7118003
+NS,Nasarawa,Lafia,8.5474692,7.7118003
+NS,Nasarawa,NS,Nasarawa,8.5474692,"7.7118003
+NS",Nasarawa,Nasarawa Eggon,8.5474692,7.7118003
+NS,Nasarawa,Obi,8.5474692,7.7118003
+NS,Nasarawa,Toto,8.5474692,7.7118003
+NS,Nasarawa,Wamba,8.5474692,7.7118003
+NG,Niger,Agaie,9.081999,8.675277
+NG,Niger,Agwara,9.081999,8.675277
+NG,Niger,Bida,9.081999,8.675277
+NG,Niger,Borgu,9.081999,8.675277
+NG,Niger,Bosso,9.081999,8.675277
+NG,Niger,Chanchaga,9.081999,8.675277
+NG,Niger,Edatti,9.081999,8.675277
+NG,Niger,Gbako,9.081999,8.675277
+NG,Niger,Gurara,9.081999,8.675277
+NG,Niger,Katcha,9.081999,8.675277
+NG,Niger,Kontagora,9.081999,8.675277
+NG,Niger,Lapai,9.081999,8.675277
+NG,Niger,Lavun,9.081999,8.675277
+NG,Niger,Magama,9.081999,8.675277
+NG,Niger,Mariga,9.081999,8.675277
+NG,Niger,Mashegu,9.081999,8.675277
+NG,Niger,Mokwa,9.081999,8.675277
+NG,Niger,Munya,9.081999,8.675277
+NG,Niger,Paikoro,9.081999,8.675277
+NG,Niger,Rafi,9.081999,8.675277
+NG,Niger,Rijau,9.081999,8.675277
+NG,Niger,Shiroro,9.081999,8.675277
+NG,Niger,Suleja,9.081999,8.675277
+NG,Niger,Tafa,9.081999,8.675277
+NG,Niger,Wushishi,9.081999,8.675277
+OG,Ogun,Abeokuta North,6.9098333,3.2583626
+OG,Ogun,Abeokuta South,6.9098333,3.2583626
+OG,Ogun,Ado Odo-ota,6.9098333,3.2583626
+OG,Ogun,Egbado North,6.9098333,3.2583626
+OG,Ogun,Egbado South,6.9098333,3.2583626
+OG,Ogun,Ewekoro,6.9098333,3.2583626
+OG,Ogun,Ifo,6.9098333,3.2583626
+OG,Ogun,Ijebu East,6.9098333,3.2583626
+OG,Ogun,Ijebu North,6.9098333,3.2583626
+OG,Ogun,Ijebu North East,6.9098333,3.2583626
+OG,Ogun,Ijebu Ode,6.9098333,3.2583626
+OG,Ogun,Ikenne,6.9098333,3.2583626
+OG,Ogun,Imeko/afon,6.9098333,3.2583626
+OG,Ogun,Ipokia,6.9098333,3.2583626
+OG,Ogun,Obafemi/owode,6.9098333,3.2583626
+OG,Ogun,Odeda,6.9098333,3.2583626
+OG,Ogun,Odogbolu,6.9098333,3.2583626
+OG,Ogun,Ogun Water Side,6.9098333,3.2583626
+OG,Ogun,Remo North,6.9098333,3.2583626
+OG,Ogun,Sagamu,6.9098333,3.2583626
+OD,Ondo,Akoko North East,7.088721,4.838763
+OD,Ondo,Akoko North West,7.088721,4.838763
+OD,Ondo,Akoko South East,7.088721,4.838763
+OD,Ondo,Akoko South West,7.088721,4.838763
+OD,Ondo,Akure North,7.088721,4.838763
+OD,Ondo,Akure South,7.088721,4.838763
+OD,Ondo,Ese-odo,7.088721,4.838763
+OD,Ondo,Idanre,7.088721,4.838763
+OD,Ondo,Ifedore,7.088721,4.838763
+OD,Ondo,Ilaje,7.088721,4.838763
+OD,Ondo,Ileoluji/okeigbo,7.088721,4.838763
+OD,Ondo,Irele,7.088721,4.838763
+OD,Ondo,Odigbo,7.088721,4.838763
+OD,Ondo,Okitipupa,7.088721,4.838763
+OD,Ondo,Ondo East,7.088721,4.838763
+OD,Ondo,Ondo West,7.088721,4.838763
+OD,Ondo,Ose,7.088721,4.838763
+OD,Ondo,Owo,7.088721,4.838763
+OS,Osun,Atakumosa East,7.983333,5.083333
+OS,Osun,Atakumosa West,7.983333,5.083333
+OS,Osun,Ayedaade,7.983333,5.083333
+OS,Osun,Ayedire,7.983333,5.083333
+OS,Osun,Boluwaduro,7.983333,5.083333
+OS,Osun,Boripe,7.983333,5.083333
+OS,Osun,Ede North,7.983333,5.083333
+OS,Osun,Ede South,7.983333,5.083333
+OS,Osun,Egbedore,7.983333,5.083333
+OS,Osun,Ejigbo,7.983333,5.083333
+OS,Osun,Ife Central,7.983333,5.083333
+OS,Osun,Ifedayo,7.983333,5.083333
+OS,Osun,Ife East,7.983333,5.083333
+OS,Osun,Ifelodun,7.983333,5.083333
+OS,Osun,Ife North,7.983333,5.083333
+OS,Osun,Ife South,7.983333,5.083333
+OS,Osun,Ila,7.983333,5.083333
+OS,Osun,Ilesa East,7.983333,5.083333
+OS,Osun,Ilesa West,7.983333,5.083333
+OS,Osun,Irepodun,7.983333,5.083333
+OS,Osun,Irewole,7.983333,5.083333
+OS,Osun,Isokan,7.983333,5.083333
+OS,Osun,Iwo,7.983333,5.083333
+OS,Osun,Obokun,7.983333,5.083333
+OS,Osun,Odo-otin,7.983333,5.083333
+OS,Osun,Ola-oluwa,7.983333,5.083333
+OS,Osun,Olorunda,7.983333,5.083333
+OS,Osun,Oriade,7.983333,5.083333
+OS,Osun,Orolu,7.983333,5.083333
+OS,Osun,Osogbo,7.983333,5.083333
+OY,Oyo,Afijio,7.837154,3.934652
+OY,Oyo,Akinyele,7.837154,3.934652
+OY,Oyo,Atiba,7.837154,3.934652
+OY,Oyo,Atisbo,7.837154,3.934652
+OY,Oyo,Egbeda,7.837154,3.934652
+OY,Oyo,Ibadan North,7.837154,3.934652
+OY,Oyo,Ibadan North East,7.837154,3.934652
+OY,Oyo,Ibadan North West,7.837154,3.934652
+OY,Oyo,Ibadan South-east,7.837154,3.934652
+OY,Oyo,Ibadan South West,7.837154,3.934652
+OY,Oyo,Ibarapa Central,7.837154,3.934652
+OY,Oyo,Ibarapa East,7.837154,3.934652
+OY,Oyo,Ibarapa North,7.837154,3.934652
+OY,Oyo,Ido,7.837154,3.934652
+OY,Oyo,Irepo,7.837154,3.934652
+OY,Oyo,Iseyin,7.837154,3.934652
+OY,Oyo,Itesiwaju,7.837154,3.934652
+OY,Oyo,Iwajowa,7.837154,3.934652
+OY,Oyo,Kajola,7.837154,3.934652
+OY,Oyo,Lagelu,7.837154,3.934652
+OY,Oyo,Ogbomoso North,7.837154,3.934652
+OY,Oyo,Ogbomoso South,7.837154,3.934652
+OY,Oyo,Ogo-oluwa,7.837154,3.934652
+OY,Oyo,Olorunsogo,7.837154,3.934652
+OY,Oyo,Oluyole,7.837154,3.934652
+OY,Oyo,Ona-ara,7.837154,3.934652
+OY,Oyo,Oorelope,7.837154,3.934652
+OY,Oyo,Ori Ire,7.837154,3.934652
+OY,Oyo,Oyo East,7.837154,3.934652
+OY,Oyo,Oyo West,7.837154,3.934652
+OY,Oyo,Saki East,7.837154,3.934652
+OY,Oyo,Saki West,7.837154,3.934652
+OY,Oyo,Surulere,7.837154,3.934652
+PL,Plateau,Jos North,9.2350817,9.7232673
+PL,Plateau,Barikin Ladi,9.2350817,9.7232673
+PL,Plateau,Bassa,9.2350817,9.7232673
+PL,Plateau,Bokkos,9.2350817,9.7232673
+PL,Plateau,Jos East,9.2350817,9.7232673
+PL,Plateau,Jos South,9.2350817,9.7232673
+PL,Plateau,Kanam,9.2350817,9.7232673
+PL,Plateau,Kanke,9.2350817,9.7232673
+PL,Plateau,Langtang North,9.2350817,9.7232673
+PL,Plateau,Langtang South,9.2350817,9.7232673
+PL,Plateau,Mangu,9.2350817,9.7232673
+PL,Plateau,Mikang,9.2350817,9.7232673
+PL,Plateau,Pankshin,9.2350817,9.7232673
+PL,Plateau,QUA'AN PAN,9.2350817,9.7232673
+PL,Plateau,Riyom,9.2350817,9.7232673
+PL,Plateau,Shendam,9.2350817,9.7232673
+PL,Plateau,Wase,9.2350817,9.7232673
+RV,Rivers,Abua-odual,4.8580767,6.9209135
+RV,Rivers,Ahoada East,4.8580767,6.9209135
+RV,Rivers,Ahoada West,4.8580767,6.9209135
+RV,Rivers,Akuku Toru,4.8580767,6.9209135
+RV,Rivers,Andoni,4.8580767,6.9209135
+RV,Rivers,Asari-toru,4.8580767,6.9209135
+RV,Rivers,Bonny,4.8580767,6.9209135
+RV,Rivers,Degema,4.8580767,6.9209135
+RV,Rivers,Eleme,4.8580767,6.9209135
+RV,Rivers,Emohua,4.8580767,6.9209135
+RV,Rivers,Etche,4.8580767,6.9209135
+RV,Rivers,Gokana,4.8580767,6.9209135
+RV,Rivers,Ikwerre,4.8580767,6.9209135
+RV,Rivers,Khana,4.8580767,6.9209135
+RV,Rivers,Obio/akpor,4.8580767,6.9209135
+RV,Rivers,Ogba/egbema/ndoni,4.8580767,6.9209135
+RV,Rivers,Ogu/bolo,4.8580767,6.9209135
+RV,Rivers,Okrika,4.8580767,6.9209135
+RV,Rivers,Omuma,4.8580767,6.9209135
+RV,Rivers,Opobo/nekoro,4.8580767,6.9209135
+RV,Rivers,Oyigbo,4.8580767,6.9209135
+RV,Rivers,Port Harcourt,4.8580767,6.9209135
+RV,Rivers,Tai,4.8580767,6.9209135
+SO,Sokoto,Binji,13.0666667,5.2333333
+SO,Sokoto,Bodinga,13.0666667,5.2333333
+SO,Sokoto,Dange/shuni,13.0666667,5.2333333
+SO,Sokoto,Gada,13.0666667,5.2333333
+SO,Sokoto,Goronyo,13.0666667,5.2333333
+SO,Sokoto,Gudu,13.0666667,5.2333333
+SO,Sokoto,Gwadabawa,13.0666667,5.2333333
+SO,Sokoto,Illela,13.0666667,5.2333333
+SO,Sokoto,Isa,13.0666667,5.2333333
+SO,Sokoto,Kware,13.0666667,5.2333333
+SO,Sokoto,Kebbe,13.0666667,5.2333333
+SO,Sokoto,Rabah,13.0666667,5.2333333
+SO,Sokoto,S/birni,13.0666667,5.2333333
+SO,Sokoto,Shagari,13.0666667,5.2333333
+SO,Sokoto,Silame,13.0666667,5.2333333
+SO,Sokoto,Sokoto North,13.0666667,5.2333333
+SO,Sokoto,Sokoto South,13.0666667,5.2333333
+SO,Sokoto,Tambuwal,13.0666667,5.2333333
+SO,Sokoto,Tangaza,13.0666667,5.2333333
+SO,Sokoto,Tureta,13.0666667,5.2333333
+SO,Sokoto,Wamakko,13.0666667,5.2333333
+SO,Sokoto,Wurno,13.0666667,5.2333333
+SO,Sokoto,Yabo,13.0666667,5.2333333
+TR,Taraba,Ardo - Kola,7.9868755,10.9807003
+TR,Taraba,Bali,7.9868755,10.9807003
+TR,Taraba,Donga,7.9868755,10.9807003
+TR,Taraba,Gashaka,7.9868755,10.9807003
+TR,Taraba,Gassol,7.9868755,10.9807003
+TR,Taraba,Ibi,7.9868755,10.9807003
+TR,Taraba,Jalingo,7.9868755,10.9807003
+TR,Taraba,Karim-lamido,7.9868755,10.9807003
+TR,Taraba,Kurmi,7.9868755,10.9807003
+TR,Taraba,Lau,7.9868755,10.9807003
+TR,Taraba,Sardauna,7.9868755,10.9807003
+TR,Taraba,Takum,7.9868755,10.9807003
+TR,Taraba,Ussa,7.9868755,10.9807003
+TR,Taraba,Wukari,7.9868755,10.9807003
+TR,Taraba,Yorro,7.9868755,10.9807003
+TR,Taraba,Zing,7.9868755,10.9807003
+YB,Yobe,Bade,12.1871412,11.7068294
+YB,Yobe,Bursari,12.1871412,11.7068294
+YB,Yobe,Damaturu,12.1871412,11.7068294
+YB,Yobe,Fika,12.1871412,11.7068294
+YB,Yobe,Fune,12.1871412,11.7068294
+YB,Yobe,Geidam,12.1871412,11.7068294
+YB,Yobe,Gujba,12.1871412,11.7068294
+YB,Yobe,Gulani,12.1871412,11.7068294
+YB,Yobe,Jakusko,12.1871412,11.7068294
+YB,Yobe,Karasawa,12.1871412,11.7068294
+YB,Yobe,Machina,12.1871412,11.7068294
+YB,Yobe,Nangere,12.1871412,11.7068294
+YB,Yobe,Nguru,12.1871412,11.7068294
+YB,Yobe,Potiskum,12.1871412,11.7068294
+YB,Yobe,Tarmuwa,12.1871412,11.7068294
+YB,Yobe,Yunusari,12.1871412,11.7068294
+YB,Yobe,Yusufari,12.1871412,11.7068294
+ZM,Zamfara,Anka,12.1844159,6.2375947
+ZM,Zamfara,Bakura,12.1844159,6.2375947
+ZM,Zamfara,Birnin Magaji,12.1844159,6.2375947
+ZM,Zamfara,Bukkuyum,12.1844159,6.2375947
+ZM,Zamfara,Bungudu,12.1844159,6.2375947
+ZM,Zamfara,Gummi,12.1844159,6.2375947
+ZM,Zamfara,Gusau,12.1844159,6.2375947
+ZM,Zamfara,Kaura Namoda,12.1844159,6.2375947
+ZM,Zamfara,Maradun,12.1844159,6.2375947
+ZM,Zamfara,Maru,12.1844159,6.2375947
+ZM,Zamfara,Shinkafi,12.1844159,6.2375947
+ZM,Zamfara,Talata Mafara,12.1844159,6.2375947
+ZM,Zamfara,Tsafe,12.1844159,6.2375947
+ZM,Zamfara,Zurmi,12.1844159,6.2375947
