@@ -1,5 +1,5 @@
 Number,Obsoleted By,Reference
-csv1, ,States codes and geopolitical zones by @olibenu
-csv2, ,Geopolitical zones by @olibenu
-csv3, ,States, LGAs and Geolocation  by @kehers
-csv4, ,GSM Network Providers Phone Number Prefixes by @pystar and @olibenu
+csv1,csv0,States codes and geopolitical zones by @olibenu
+csv2,csv0,Geopolitical zones by @olibenu
+csv3,csv0,States, LGAs and Geolocation  by @kehers
+csv4,csv0,GSM Network Providers Phone Number Prefixes by @pystar and @olibenu
