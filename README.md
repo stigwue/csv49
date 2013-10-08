@@ -20,4 +20,4 @@ CSV4: GSM Network Providers Phone Number Prefixes by [@olibenu](http://twitter.c
 
 CSV5: States and Capital Geolocation by [@olibenu](http://twitter.com/olibenu)
 
-CSV6: Nigerian Universities by [@kehers](http://twitter.com/kehers)
+CSV6: Universities by [@kehers](http://twitter.com/kehers)
