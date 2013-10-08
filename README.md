@@ -19,3 +19,5 @@ CSV3: States. LGAs and Geolocation by [@kehers](http://twitter.com/kehers)
 CSV4: GSM Network Providers Phone Number Prefixes by [@olibenu](http://twitter.com/olibenu) and [@pystar](http://twitter.com/pystar)
 
 CSV5: States and Capital Geolocation by [@olibenu](http://twitter.com/olibenu)
+
+CSV6: Nigerian Universities by [@kehers](http://twitter.com/kehers)
