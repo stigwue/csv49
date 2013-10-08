@@ -5,7 +5,7 @@ CSV49 forgives you for wasting productive human hours reinventing the wheel prov
 
 CSV49 is short for Comma Seperated Values For Nigeria.
 
-See http://olibenu.com/ideabox/csv49 for the full story.
+See [http://olibenu.com/blog.php?url=csv49](http://olibenu.com/blog.php?url=csv49) for the full story.
 
 List
 =========
