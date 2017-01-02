@@ -21,3 +21,5 @@ CSV4: GSM Network Providers Phone Number Prefixes by [@olibenu](http://twitter.c
 CSV5: States and Capital Geolocation by [@olibenu](http://twitter.com/olibenu)
 
 CSV6: Universities by [@kehers](http://twitter.com/kehers)
+
+CSV7: Universities, Polytechnics and Colleges by [@funsholaniyi](http://twitter.com/funsholaniyi)
