@@ -4,7 +4,6 @@ CSV49 forgives you for wasting productive human hours reinventing the wheel prov
 
 CSV49 is short for Comma Seperated Values For Nigeria: a set of commonly used Nigerian data.
 
-
 ## List
 
 1. [CSV1](./csv/csv1.csv): States codes and geopolitical zones by [@stigwue](http://twitter.com/stigwue)
@@ -18,3 +17,6 @@ CSV49 is short for Comma Seperated Values For Nigeria: a set of commonly used Ni
 1. [CSV5](./csv/csv5.csv): States and Capital Geolocation by [@stigwue](http://twitter.com/stigwue)
 
 1. [CSV6](./csv/csv6.csv): Universities by [@kehers](http://twitter.com/kehers)
+CSV6: Universities by [@kehers](http://twitter.com/kehers)
+
+1. [CSV7](./csv/csv7.csv): Universities, Polytechnics and Colleges by [@funsholaniyi](http://twitter.com/funsholaniyi)
