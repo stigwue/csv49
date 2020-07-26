@@ -1,0 +1,1516 @@
+{
+    "list": [
+        {
+            "acronym": "absu",
+            "name": "Abia State University"
+        },
+        {
+            "acronym": "atbu",
+            "name": "Abubakar Tafawa Balewa University"
+        },
+        {
+            "acronym": "achievers",
+            "name": "Achievers University"
+        },
+        {
+            "acronym": "adsu",
+            "name": "Adamawa State University"
+        },
+        {
+            "acronym": "aaua",
+            "name": "Adekunle Ajasin University"
+        },
+        {
+            "acronym": "adeleke",
+            "name": "Adeleke University"
+        },
+        {
+            "acronym": "abuad",
+            "name": "Afe Babalola University"
+        },
+        {
+            "acronym": "abu",
+            "name": "Ahmadu Bello University"
+        },
+        {
+            "acronym": "ajayi",
+            "name": "Ajayi Crowther University"
+        },
+        {
+            "acronym": "akutech",
+            "name": "Akwa Ibom State University"
+        },
+        {
+            "acronym": "al-hikmah",
+            "name": "Al-Hikmah University"
+        },
+        {
+            "acronym": "aau",
+            "name": "Ambrose Alli University"
+        },
+        {
+            "acronym": "aun",
+            "name": "American University of Nigeria"
+        },
+        {
+            "acronym": "ansu",
+            "name": "Anambra State University"
+        },
+        {
+            "acronym": "basug",
+            "name": "Bauchi State University"
+        },
+        {
+            "acronym": "babcock",
+            "name": "Babcock University"
+        },
+        {
+            "acronym": "basu",
+            "name": "Bauchi State University"
+        },
+        {
+            "acronym": "buk",
+            "name": "Bayero University Kano"
+        },
+        {
+            "acronym": "baze",
+            "name": "Baze University"
+        },
+        {
+            "acronym": "bells",
+            "name": "Bells University of Technology"
+        },
+        {
+            "acronym": "biu",
+            "name": "Benson Idahosa University"
+        },
+        {
+            "acronym": "bsu",
+            "name": "Benue State University"
+        },
+        {
+            "acronym": "Bingham",
+            "name": "Bingham University"
+        },
+        {
+            "acronym": "bu",
+            "name": "Bowen University"
+        },
+        {
+            "acronym": "bukar",
+            "name": "Bukar Abba Ibrahim University"
+        },
+        {
+            "acronym": "caleb",
+            "name": "Caleb University"
+        },
+        {
+            "acronym": "caritas",
+            "name": "Caritas University"
+        },
+        {
+            "acronym": "catholic",
+            "name": "Catholic University of Nigeria"
+        },
+        {
+            "acronym": "cetep",
+            "name": "Cetep University"
+        },
+        {
+            "acronym": "cu",
+            "name": "Covenant University"
+        },
+        {
+            "acronym": "crawford",
+            "name": "Crawford University"
+        },
+        {
+            "acronym": "crescent",
+            "name": "Crescent University"
+        },
+        {
+            "acronym": "crutech",
+            "name": "Cross River State University of Technology"
+        },
+        {
+            "acronym": "delsu",
+            "name": "Delta State University"
+        },
+        {
+            "acronym": "ebsu",
+            "name": "Ebonyi State University"
+        },
+        {
+            "acronym": "eksu",
+            "name": "Ekiti State University"
+        },
+        {
+            "acronym": "esut",
+            "name": "Enugu State University Of Science And Technology"
+        },
+        {
+            "acronym": "fuam",
+            "name": "Federal University Of Agriculture, Makurdi"
+        },
+        {
+            "acronym": "fupre",
+            "name": "Federal University of Petroleum Resource"
+        },
+        {
+            "acronym": "futa",
+            "name": "Federal University of Technology Akure"
+        },
+        {
+            "acronym": "futminna",
+            "name": "Federal University of Technology Minna"
+        },
+        {
+            "acronym": "futyola",
+            "name": "Federal University of Technology Yola"
+        },
+        {
+            "acronym": "futo",
+            "name": "Federal University of Technology, Owerri"
+        },
+        {
+            "acronym": "fud",
+            "name": "Federal University, Dutse"
+        },
+        {
+            "acronym": "fudm",
+            "name": "Federal University, Dutsin-ma"
+        },
+        {
+            "acronym": "fuk",
+            "name": "Federal University, Kashere"
+        },
+        {
+            "acronym": "ful",
+            "name": "Federal University, Lafia"
+        },
+        {
+            "acronym": "fulokoja",
+            "name": "Federal University, Lokoja"
+        },
+        {
+            "acronym": "funai",
+            "name": "Federal University, Ndufu-alike"
+        },
+        {
+            "acronym": "fuotuoke",
+            "name": "Federal University, Otuoke"
+        },
+        {
+            "acronym": "fuoye",
+            "name": "Federal University, Oye-ekiti"
+        },
+        {
+            "acronym": "fuwukari",
+            "name": "Federal University, Wukari"
+        },
+        {
+            "acronym": "fountain",
+            "name": "Fountain University"
+        },
+        {
+            "acronym": "go",
+            "name": "Godfrey Okoye University"
+        },
+        {
+            "acronym": "gomsu",
+            "name": "Gombe State university"
+        },
+        {
+            "acronym": "ibbu",
+            "name": "Ibrahim Badamasi Babangida University"
+        },
+        {
+            "acronym": "iuo",
+            "name": "Igbinedion University"
+        },
+        {
+            "acronym": "imsu",
+            "name": "Imo State University"
+        },
+        {
+            "acronym": "jabu",
+            "name": "Joseph Ayo Babalola University"
+        },
+        {
+            "acronym": "kasu",
+            "name": "Kaduna State university"
+        },
+        {
+            "acronym": "kust",
+            "name": "Kano University Of Science And Technology"
+        },
+        {
+            "acronym": "katsu",
+            "name": "Katsina University"
+        },
+        {
+            "acronym": "ksusta",
+            "name": "Kebbi State University Of Science And Technology"
+        },
+        {
+            "acronym": "ksu",
+            "name": "kogi State University"
+        },
+        {
+            "acronym": "kwasu",
+            "name": "Kwara State University"
+        },
+        {
+            "acronym": "kwararafa",
+            "name": "Kwararafa University"
+        },
+        {
+            "acronym": "lautech",
+            "name": "Ladoke Akintola University of Technology"
+        },
+        {
+            "acronym": "lasu",
+            "name": "Lagos State University"
+        },
+        {
+            "acronym": "Landmark",
+            "name": "Landmark University"
+        },
+        {
+            "acronym": "lcu",
+            "name": "Lead City University"
+        },
+        {
+            "acronym": "madonna",
+            "name": "Madonna University"
+        },
+        {
+            "acronym": "moua",
+            "name": "Michael Okpara University of Agriculture"
+        },
+        {
+            "acronym": "Nsuk",
+            "name": "Nasarawa State University"
+        },
+        {
+            "acronym": "noun",
+            "name": "National Open University of Nigeria"
+        },
+        {
+            "acronym": "ndu",
+            "name": "Niger Delta University"
+        },
+        {
+            "acronym": "ntnu",
+            "name": "Nigeria Turkish Nile University"
+        },
+        {
+            "acronym": "unizik",
+            "name": "Nnamdi Azikiwe University"
+        },
+        {
+            "acronym": "novena",
+            "name": "Novena University"
+        },
+        {
+            "acronym": "oau",
+            "name": "Obafemi Awolowo University"
+        },
+        {
+            "acronym": "ou",
+            "name": "Obong University"
+        },
+        {
+            "acronym": "oduduwa",
+            "name": "Oduduwa University"
+        },
+        {
+            "acronym": "oou",
+            "name": "Olabisi Onabanjo University"
+        },
+        {
+            "acronym": "osustech",
+            "name": "Ondo State University of Science and Technology"
+        },
+        {
+            "acronym": "uniosun",
+            "name": "Osun State University"
+        },
+        {
+            "acronym": "paul",
+            "name": "Paul University"
+        },
+        {
+            "acronym": "pti",
+            "name": "Petroleum Training Institute"
+        },
+        {
+            "acronym": "plasu",
+            "name": "Plateau State University"
+        },
+        {
+            "acronym": "ru",
+            "name": "Redeemer&amp;#039;s University"
+        },
+        {
+            "acronym": "rnu",
+            "name": "Renaissance University"
+        },
+        {
+            "acronym": "rhema",
+            "name": "Rhema University"
+        },
+        {
+            "acronym": "rsust",
+            "name": "Rivers State University of Science and Technology"
+        },
+        {
+            "acronym": "salem",
+            "name": "Salem University"
+        },
+        {
+            "acronym": "sau",
+            "name": "Samuel Adegboyega University"
+        },
+        {
+            "acronym": "tasued",
+            "name": "Tai Solarin University of Education"
+        },
+        {
+            "acronym": "tansain",
+            "name": "Tansain University"
+        },
+        {
+            "acronym": "tasu",
+            "name": "Taraba State University"
+        },
+        {
+            "acronym": "tunedik",
+            "name": "The University Of Education, Ikere-Ekiti"
+        },
+        {
+            "acronym": "umyu",
+            "name": "Umaru Musa Yar&amp;#039;adua University"
+        },
+        {
+            "acronym": "uniabuja",
+            "name": "University of Abuja"
+        },
+        {
+            "acronym": "funaab",
+            "name": "Federal University of Agriculture, Abeokuta"
+        },
+        {
+            "acronym": "uam",
+            "name": "University of Agriculture, Makurdi"
+        },
+        {
+            "acronym": "uniben",
+            "name": "University of Benin"
+        },
+        {
+            "acronym": "unical",
+            "name": "University of Calabar"
+        },
+        {
+            "acronym": "ui",
+            "name": "University of Ibadan"
+        },
+        {
+            "acronym": "unilorin",
+            "name": "University of Ilorin"
+        },
+        {
+            "acronym": "unijos",
+            "name": "University of Jos"
+        },
+        {
+            "acronym": "unilag",
+            "name": "University of Lagos"
+        },
+        {
+            "acronym": "unimaid",
+            "name": "University of Maiduguri"
+        },
+        {
+            "acronym": "unimkar",
+            "name": "University Of Mkar"
+        },
+        {
+            "acronym": "unn",
+            "name": "University of Nigeria"
+        },
+        {
+            "acronym": "uniport",
+            "name": "University of Port-Harcourt"
+        },
+        {
+            "acronym": "usti",
+            "name": "University Of Science And Technology, Ifaki-ekiti"
+        },
+        {
+            "acronym": "uniuyo",
+            "name": "University of Uyo"
+        },
+        {
+            "acronym": "udusok",
+            "name": "Usman Dan Fodio University"
+        },
+        {
+            "acronym": "veritas",
+            "name": "Veritas University, Abuja"
+        },
+        {
+            "acronym": "wellspring",
+            "name": "Wellspring University"
+        },
+        {
+            "acronym": "wusto",
+            "name": "Wesley University Of Science And Technology"
+        },
+        {
+            "acronym": "wdu",
+            "name": "Western Delta University"
+        },
+        {
+            "acronym": "agp",
+            "name": "Abdul-gusau Polytechnic"
+        },
+        {
+            "acronym": "abiapoly",
+            "name": "Abia State polytechnic"
+        },
+        {
+            "acronym": "aap",
+            "name": "Abraham Adesanya Polytechnic"
+        },
+        {
+            "acronym": "atap",
+            "name": "Abubakar Tatari Ali Polytechnic"
+        },
+        {
+            "acronym": "adamawapoly",
+            "name": "Adamawa State polytechnic"
+        },
+        {
+            "acronym": "aflon",
+            "name": "Aflon Digital Institute"
+        },
+        {
+            "acronym": "afrihub",
+            "name": "Afrihub Ict Institute"
+        },
+        {
+            "acronym": "abuth",
+            "name": "Ahmadu Bello University Teaching Hospital"
+        },
+        {
+            "acronym": "afit",
+            "name": "Air Force Institute Of Technology"
+        },
+        {
+            "acronym": "akanupoly",
+            "name": "Akanu Ibiam Federal polytechnic"
+        },
+        {
+            "acronym": "aocayandev",
+            "name": "Akperan Orshi College Of Agriculture"
+        },
+        {
+            "acronym": "aiscas",
+            "name": "Akwa Ibom State College Of Arts And Science"
+        },
+        {
+            "acronym": "akwaibompoly",
+            "name": "Akwa Ibom State polytechnic"
+        },
+        {
+            "acronym": "alloverpoly",
+            "name": "Allover central polytechnic"
+        },
+        {
+            "acronym": "acmgt",
+            "name": "Ambassador College Of Management And Technology"
+        },
+        {
+            "acronym": "actps",
+            "name": "Ambassador College Of Technology And Paralegal Studies"
+        },
+        {
+            "acronym": "akath",
+            "name": "Aminu Kano Teaching Hospital"
+        },
+        {
+            "acronym": "arewa",
+            "name": "Arewa Paralegal Innovation Enterprise"
+        },
+        {
+            "acronym": "auchipoly",
+            "name": "Auchi polytechnic"
+        },
+        {
+            "acronym": "audubako",
+            "name": "Audu Bako College Of Agriculture Danbatta"
+        },
+        {
+            "acronym": "benpoly",
+            "name": "Benue State Poly"
+        },
+        {
+            "acronym": "buckiepoly",
+            "name": "Buckingham Academy Of Management And Technology"
+        },
+        {
+            "acronym": "beec",
+            "name": "Business Education Examination Council"
+        },
+        {
+            "acronym": "ccae",
+            "name": "Centre For Creative Arts Education"
+        },
+        {
+            "acronym": "cifman",
+            "name": "Cifman Institute Of Techn. &amp;amp; Management"
+        },
+        {
+            "acronym": "citygate",
+            "name": "City Gate Institute Of Innovation And Technology"
+        },
+        {
+            "acronym": "coabs",
+            "name": "College Of Administrative And Business Studies"
+        },
+        {
+            "acronym": "coaas",
+            "name": "College Of Agriculture And Animal Science"
+        },
+        {
+            "acronym": "coaha",
+            "name": "College Of Agriculture, Hadijia"
+        },
+        {
+            "acronym": "coaja",
+            "name": "College Of Agriculture, Jalingo"
+        },
+        {
+            "acronym": "coaka",
+            "name": "College Of Agriculture, Kabba"
+        },
+        {
+            "acronym": "coala",
+            "name": "College Of Agriculture, Lafia"
+        },
+        {
+            "acronym": "coazu",
+            "name": "College Of Agriculture, Zuru"
+        },
+        {
+            "acronym": "copoly",
+            "name": "Covenant Polytechnic, Aba"
+        },
+        {
+            "acronym": "crownpoly",
+            "name": "Crown Polytechnic"
+        },
+        {
+            "acronym": "dalewares",
+            "name": "Dalewares Institute Of Technology"
+        },
+        {
+            "acronym": "delscoa",
+            "name": "Delta State College Of Agriculture"
+        },
+        {
+            "acronym": "deltapoly",
+            "name": "Delta state polytechnic"
+        },
+        {
+            "acronym": "diabo",
+            "name": "Diabo Paralegal Training Institute"
+        },
+        {
+            "acronym": "dorbenpoly",
+            "name": "Dorben polytechnic"
+        },
+        {
+            "acronym": "dreamville",
+            "name": "Dreamville Ltd"
+        },
+        {
+            "acronym": "edsca",
+            "name": "Edo State College Of Agriculture"
+        },
+        {
+            "acronym": "esitm",
+            "name": "Edo State Institute Of Technology And Management"
+        },
+        {
+            "acronym": "farmark",
+            "name": "Farmark Institute Of Employment And Creativity Kaduna"
+        },
+        {
+            "acronym": "fcaa",
+            "name": "Federal College Of Agriculture, Akure"
+        },
+        {
+            "acronym": "fcai",
+            "name": "Federal College Of Agriculture, Ishiagu"
+        },
+        {
+            "acronym": "fcamp",
+            "name": "Federal College Of Agriculture, Moor Plantation"
+        },
+        {
+            "acronym": "fcahptib",
+            "name": "Federal College Of Animal Health &amp;amp; Production Tech, Ibadan"
+        },
+        {
+            "acronym": "fcahptvom",
+            "name": "Federal College Of Animal Health &amp;amp; Production Tech, Vom"
+        },
+        {
+            "acronym": "marinecollege",
+            "name": "Federal College Of Fisheries And Marine Tech. V.I."
+        },
+        {
+            "acronym": "fcftib",
+            "name": "Federal College Of Forestry Technology, Ibadan"
+        },
+        {
+            "acronym": "fcfjos",
+            "name": "Federal College Of Forestry, Jos"
+        },
+        {
+            "acronym": "fcfmaf",
+            "name": "Federal College Of Forestry, Mechanisation, Afaka"
+        },
+        {
+            "acronym": "fcfftbo",
+            "name": "Federal College Of Freshwater Fisheries Tech, Baga"
+        },
+        {
+            "acronym": "fcfftnewbussa",
+            "name": "Federal College Of Freshwater Fisheries Tech, New Bussa"
+        },
+        {
+            "acronym": "fchkowa",
+            "name": "Federal College Of Horticulture, Dadin Kowa"
+        },
+        {
+            "acronym": "fclrtkuru",
+            "name": "Federal College Of Land Resources Technology, Kuru"
+        },
+        {
+            "acronym": "fclrto",
+            "name": "Federal College Of Land Resources Technology, Owerri"
+        },
+        {
+            "acronym": "fcotigbobi",
+            "name": "Federal College Of Orthopedic Technology, Igbobi"
+        },
+        {
+            "acronym": "fcwm",
+            "name": "Federal College Of Wildlife Management, New Bussa"
+        },
+        {
+            "acronym": "fccibadan",
+            "name": "Federal Cooperative College, Ibadan"
+        },
+        {
+            "acronym": "fcckaduna",
+            "name": "Federal Cooperative College, Kaduna"
+        },
+        {
+            "acronym": "fccojiriver",
+            "name": "Federal Cooperative College, Oji River"
+        },
+        {
+            "acronym": "ekitipoly",
+            "name": "Federal polytechnic, Ado-Ekiti"
+        },
+        {
+            "acronym": "balipoly",
+            "name": "Federal Polytechnic, Bali"
+        },
+        {
+            "acronym": "bauchipoly",
+            "name": "Federal polytechnic, Bauchi"
+        },
+        {
+            "acronym": "bidapoly",
+            "name": "Federal polytechnic, Bida"
+        },
+        {
+            "acronym": "birnin-kebbipol",
+            "name": "Federal polytechnic, Birnin-Kebbi"
+        },
+        {
+            "acronym": "damaturupoly",
+            "name": "Federal polytechnic, Damaturu"
+        },
+        {
+            "acronym": "edepoly",
+            "name": "Federal polytechnic, Ede"
+        },
+        {
+            "acronym": "idahpoly",
+            "name": "Federal polytechnic, Idah"
+        },
+        {
+            "acronym": "ilaropoly",
+            "name": "Federal polytechnic, Ilaro"
+        },
+        {
+            "acronym": "fedponam",
+            "name": "Federal Polytechnic, Kaura Namoda"
+        },
+        {
+            "acronym": "mubipoly",
+            "name": "Federal polytechnic, Mubi"
+        },
+        {
+            "acronym": "nasarawapoly",
+            "name": "Federal polytechnic, Nasarawa"
+        },
+        {
+            "acronym": "nekedepoly",
+            "name": "Federal polytechnic, Nekede"
+        },
+        {
+            "acronym": "offapoly",
+            "name": "Federal Polytechnic, Offa"
+        },
+        {
+            "acronym": "okopoly",
+            "name": "Federal polytechnic, Oko"
+        },
+        {
+            "acronym": "fedsdtten",
+            "name": "Federal School Of Dental Technology And Therapy, Enugu"
+        },
+        {
+            "acronym": "fssoyo",
+            "name": "Federal School Of Surveying, Oyo"
+        },
+        {
+            "acronym": "fideipoly",
+            "name": "Fidei Polytechnic, Gboko"
+        },
+        {
+            "acronym": "flyingdove",
+            "name": "Flyingdove Institute Of Information Technology, Abuja"
+        },
+        {
+            "acronym": "gatewaypoly",
+            "name": "Gateway polytechnic Saapade"
+        },
+        {
+            "acronym": "gracepoly",
+            "name": "Grace Polytechnic, Lagos"
+        },
+        {
+            "acronym": "hukpoly",
+            "name": "Hassan Usman Katsina Poly"
+        },
+        {
+            "acronym": "heritage",
+            "name": "Heritage Polytechnic"
+        },
+        {
+            "acronym": "highland",
+            "name": "Highland College Of Tech. &amp;amp; Further Education"
+        },
+        {
+            "acronym": "hussainipoly",
+            "name": "Hussaini Adamu Federal polytechnic"
+        },
+        {
+            "acronym": "ifotech",
+            "name": "Ifo College Of Management And Technology"
+        },
+        {
+            "acronym": "igbajopoly",
+            "name": "Igbajo Polytechnic"
+        },
+        {
+            "acronym": "imfi",
+            "name": "Imfi, Ict Academy, Uyo"
+        },
+        {
+            "acronym": "imopoly",
+            "name": "Imo State Polytechnic"
+        },
+        {
+            "acronym": "iitkad",
+            "name": "Innovation Institute Of Technology, Kaduna"
+        },
+        {
+            "acronym": "imte",
+            "name": "Institute of Management Technology, Enugu"
+        },
+        {
+            "acronym": "iphoau",
+            "name": "Institute Of Public Health"
+        },
+        {
+            "acronym": "interlink",
+            "name": "Interlink Polytechnic"
+        },
+        {
+            "acronym": "jsiit",
+            "name": "Jigawa State Institute Of Information Technology"
+        },
+        {
+            "acronym": "jigpoly",
+            "name": "Jigawa State Polytechnic"
+        },
+        {
+            "acronym": "kbs",
+            "name": "Kaduna Business School"
+        },
+        {
+            "acronym": "kadpoly",
+            "name": "Kaduna Polytechnic"
+        },
+        {
+            "acronym": "kanopoly",
+            "name": "Kano State polytechnic"
+        },
+        {
+            "acronym": "karrox",
+            "name": "Karrox-ugrl Computer Education &amp;amp; Training Centre"
+        },
+        {
+            "acronym": "kingspoly",
+            "name": "Kings Polytechnic"
+        },
+        {
+            "acronym": "ksp",
+            "name": "Kogi State Polytechnic"
+        },
+        {
+            "acronym": "kwarapoly",
+            "name": "Kwara State polytechnic"
+        },
+        {
+            "acronym": "lcccl",
+            "name": "Lagos City Computer College, Lagos"
+        },
+        {
+            "acronym": "lagoscitypoly",
+            "name": "Lagos City polytechnic"
+        },
+        {
+            "acronym": "laspotech",
+            "name": "Lagos State polytechnic"
+        },
+        {
+            "acronym": "lanistephens",
+            "name": "Lani Stephens Music Institute"
+        },
+        {
+            "acronym": "laserpgc",
+            "name": "Laser Petroleum Geo-sciences Centre"
+        },
+        {
+            "acronym": "lighthousepoly",
+            "name": "Light House Polytechnic"
+        },
+        {
+            "acronym": "linetpaul",
+            "name": "Linet Paul Innovative Institute"
+        },
+        {
+            "acronym": "lcmt",
+            "name": "Literacy College Of Management And Technology"
+        },
+        {
+            "acronym": "lufodo",
+            "name": "Lufodo Academy Of Performing Arts"
+        },
+        {
+            "acronym": "mlcamai",
+            "name": "Mahammed Lawan College Of Agriculture, Maiduguri"
+        },
+        {
+            "acronym": "myhias",
+            "name": "Mallam Yahaya Hamza Institute Of Advance Studies,"
+        },
+        {
+            "acronym": "maritimeacademy",
+            "name": "Maritime Academy of Nigeria"
+        },
+        {
+            "acronym": "metit",
+            "name": "Metropolitan Institute Of Technology"
+        },
+        {
+            "acronym": "mapoly",
+            "name": "Moshood Abiola polytechnic"
+        },
+        {
+            "acronym": "naspoly",
+            "name": "Nasarawa State Polytechnic"
+        },
+        {
+            "acronym": "coamokwa",
+            "name": "Niger State College Of Agriculture, Mokwa"
+        },
+        {
+            "acronym": "nigerpoly",
+            "name": "Niger State polytechnic"
+        },
+        {
+            "acronym": "nasme",
+            "name": "Nigeria Army School Of Military Engineering, Makurdi"
+        },
+        {
+            "acronym": "ncat",
+            "name": "Nigerian College of Aviation Technology"
+        },
+        {
+            "acronym": "niit",
+            "name": "NIIT"
+        },
+        {
+            "acronym": "nuhubamallipoly",
+            "name": "Nuhu Bamalli polytechnic"
+        },
+        {
+            "acronym": "osuntechcollege",
+            "name": "Osun State College of Technology"
+        },
+        {
+            "acronym": "ospoly",
+            "name": "Osun State polytechnic"
+        },
+        {
+            "acronym": "osisatech",
+            "name": "Our Saviour Institute of Science, Agric. &amp;amp; Tech."
+        },
+        {
+            "acronym": "oyscai",
+            "name": "Oyo State College Of Agriculture"
+        },
+        {
+            "acronym": "plascag",
+            "name": "Plateau State College Of Agriculture, Garkawa"
+        },
+        {
+            "acronym": "plaspoly",
+            "name": "Plateau State Polytechnic"
+        },
+        {
+            "acronym": "polysok",
+            "name": "Polytechnic Of Sokoto"
+        },
+        {
+            "acronym": "ramatpoly",
+            "name": "Ramat polytechnic"
+        },
+        {
+            "acronym": "riverspoly",
+            "name": "River State polytechnic"
+        },
+        {
+            "acronym": "rivcas",
+            "name": "Rivers State College Of Arts And Science"
+        },
+        {
+            "acronym": "rschst",
+            "name": "Rivers State College Of Health Science And Technology"
+        },
+        {
+            "acronym": "ronik",
+            "name": "Ronik Polytechnic"
+        },
+        {
+            "acronym": "rugipo",
+            "name": "Rufus Giwa polytechnic"
+        },
+        {
+            "acronym": "samca",
+            "name": "Samaru College Of Agriculture"
+        },
+        {
+            "acronym": "soab",
+            "name": "School Of Agriculture, Bauchi"
+        },
+        {
+            "acronym": "soai",
+            "name": "School Of Agriculture, Ikorodu"
+        },
+        {
+            "acronym": "sichstmakarfi",
+            "name": "Shehu Idris College Of Health Sci &amp;amp; Tech, Makarfi"
+        },
+        {
+            "acronym": "secceit",
+            "name": "South Eastern College of Computer Engineering and Info. Tech."
+        },
+        {
+            "acronym": "sniit",
+            "name": "Southern-nigeria Institute Of Innovative Technology"
+        },
+        {
+            "acronym": "templegatepoly",
+            "name": "Temple-gate Polytechnic"
+        },
+        {
+            "acronym": "ibadanpoly",
+            "name": "The polytechnic, Ibadan"
+        },
+        {
+            "acronym": "polyife",
+            "name": "The Polytechnic, Ile-Ife"
+        },
+        {
+            "acronym": "simtech",
+            "name": "The School Of Information And Media Technology"
+        },
+        {
+            "acronym": "wufpbk",
+            "name": "Waziri Umaru Fed. Polytechnic Birnin Kebbi"
+        },
+        {
+            "acronym": "wolex",
+            "name": "Wolex Polytechnic"
+        },
+        {
+            "acronym": "yabatech",
+            "name": "Yaba College of Technology"
+        },
+        {
+            "acronym": "ascoed",
+            "name": "Abia State College Of Education"
+        },
+        {
+            "acronym": "adacoed",
+            "name": "Adamu Augie College Of Education"
+        },
+        {
+            "acronym": "aocoed",
+            "name": "Adeniran Ogunsanya College of Education"
+        },
+        {
+            "acronym": "aceondo",
+            "name": "Adeyemi College Of Education, Ondo"
+        },
+        {
+            "acronym": "atcoicoed",
+            "name": "African Thinkers Community Of Inquiry College Of Education"
+        },
+        {
+            "acronym": "akscoed",
+            "name": "Akwa-ibom State College Of Education"
+        },
+        {
+            "acronym": "alhikma",
+            "name": "Alhikma College Of Education"
+        },
+        {
+            "acronym": "allscoed",
+            "name": "All States College Of Education, Akure"
+        },
+        {
+            "acronym": "alvan",
+            "name": "Alvan Ikoku College Of Education"
+        },
+        {
+            "acronym": "angelcrown",
+            "name": "Angel Crown College Of Education"
+        },
+        {
+            "acronym": "ansaruddeen",
+            "name": "Ansar-ud-deen College Of Education"
+        },
+        {
+            "acronym": "apacoed",
+            "name": "Apa College Of Education"
+        },
+        {
+            "acronym": "ariscoed",
+            "name": "Arabic And Islamic College Of Education"
+        },
+        {
+            "acronym": "asscoed",
+            "name": "Assanusiyah College Of Education"
+        },
+        {
+            "acronym": "adcoed",
+            "name": "Awori District College Of Education"
+        },
+        {
+            "acronym": "bauchiiais",
+            "name": "Bauchi Institute For Arabic And Islamic Studies"
+        },
+        {
+            "acronym": "bycoed",
+            "name": "Bayelsa State College Of Education"
+        },
+        {
+            "acronym": "bayotijani",
+            "name": "Bayotijani College Of Education"
+        },
+        {
+            "acronym": "blcoed",
+            "name": "Best Legacy College Of Education"
+        },
+        {
+            "acronym": "cfcoed",
+            "name": "Calvin Foundation College Of Education"
+        },
+        {
+            "acronym": "citycoed",
+            "name": "City College Of Education"
+        },
+        {
+            "acronym": "coeaghor",
+            "name": "College Of Education, Agbor"
+        },
+        {
+            "acronym": "coeakwanga",
+            "name": "College Of Education, Akwanga"
+        },
+        {
+            "acronym": "coeankpa",
+            "name": "College Of Education, Ankpa"
+        },
+        {
+            "acronym": "coeazare",
+            "name": "College Of Education, Azare"
+        },
+        {
+            "acronym": "coeeki",
+            "name": "College Of Education, Ekiadolor"
+        },
+        {
+            "acronym": "foreignlinks",
+            "name": "College Of Education, Foreign Links Campus Moro"
+        },
+        {
+            "acronym": "coekc",
+            "name": "College Of Education, Gidan-waya, Kafanchan"
+        },
+        {
+            "acronym": "coegindiri",
+            "name": "College Of Education, Gindiri"
+        },
+        {
+            "acronym": "coehong",
+            "name": "College Of Education, Hong"
+        },
+        {
+            "acronym": "coeigueben",
+            "name": "College Of Education, Igueben"
+        },
+        {
+            "acronym": "coeikere",
+            "name": "College Of Education, Ikere"
+        },
+        {
+            "acronym": "coeilemona",
+            "name": "College Of Education, Ilemona"
+        },
+        {
+            "acronym": "coeilesa",
+            "name": "College Of Education, Ilesha"
+        },
+        {
+            "acronym": "coeilorin",
+            "name": "College Of Education, Ilorin"
+        },
+        {
+            "acronym": "coejalingo",
+            "name": "College Of Education, Jalingo"
+        },
+        {
+            "acronym": "coekatsina",
+            "name": "College Of Education, Katsina-ala"
+        },
+        {
+            "acronym": "coedlfg",
+            "name": "College Of Education, Lafiagi"
+        },
+        {
+            "acronym": "coemaru",
+            "name": "College Of Education, Maru"
+        },
+        {
+            "acronym": "coeminna",
+            "name": "College Of Education, Minna"
+        },
+        {
+            "acronym": "coemoro",
+            "name": "College Of Education, Moro-ife"
+        },
+        {
+            "acronym": "coeoju",
+            "name": "College Of Education, Oju"
+        },
+        {
+            "acronym": "coeoro",
+            "name": "College Of Education, Oro"
+        },
+        {
+            "acronym": "coeport",
+            "name": "College Of Education, Port Harcourt"
+        },
+        {
+            "acronym": "coewaka",
+            "name": "College Of Education, Waka-biu"
+        },
+        {
+            "acronym": "coewarri",
+            "name": "College Of Education, Warri"
+        },
+        {
+            "acronym": "cornerstone",
+            "name": "Cornerstone College Of Education, Lagos"
+        },
+        {
+            "acronym": "crscoed",
+            "name": "Cross River State College Of Education"
+        },
+        {
+            "acronym": "delarcoed",
+            "name": "Delar College Of Education"
+        },
+        {
+            "acronym": "dscope",
+            "name": "Delta State College Of Physical Education"
+        },
+        {
+            "acronym": "ebecoed",
+            "name": "Ebenezer College Of Education"
+        },
+        {
+            "acronym": "ebscoed",
+            "name": "Ebonyi State College Of Education"
+        },
+        {
+            "acronym": "elderoyama",
+            "name": "Elder Oyama Memorial College Of Education"
+        },
+        {
+            "acronym": "eacoedoyo",
+            "name": "Emmanuel Alyande College Of Education"
+        },
+        {
+            "acronym": "escet",
+            "name": "Enugu State College Of Education, Technical"
+        },
+        {
+            "acronym": "fctcoezuba",
+            "name": "FCT College Of Education, Zuba"
+        },
+        {
+            "acronym": "fceoyo",
+            "name": "Federal College Of Education"
+        },
+        {
+            "acronym": "fcetbichi",
+            "name": "Federal College Of Education"
+        },
+        {
+            "acronym": "fcetakoka",
+            "name": "Federal College Of Education"
+        },
+        {
+            "acronym": "fcegusau",
+            "name": "Federal College Of Education"
+        },
+        {
+            "acronym": "fcetomoku",
+            "name": "Federal College Of Education"
+        },
+        {
+            "acronym": "fceabeokuta",
+            "name": "Federal College Of Education Abeokuta"
+        },
+        {
+            "acronym": "fceasaba",
+            "name": "Federal College Of Education Asaba"
+        },
+        {
+            "acronym": "fcekatsina",
+            "name": "Federal College Of Education Katsina"
+        },
+        {
+            "acronym": "fcekg",
+            "name": "Federal College Of Education Kontagora"
+        },
+        {
+            "acronym": "fceobudu",
+            "name": "Federal College Of Education Obudu"
+        },
+        {
+            "acronym": "fceokene",
+            "name": "Federal College Of Education Okene"
+        },
+        {
+            "acronym": "fceumunze",
+            "name": "Federal College Of Education Umunze"
+        },
+        {
+            "acronym": "fceyola",
+            "name": "Federal College Of Education Yola"
+        },
+        {
+            "acronym": "fcezaria",
+            "name": "Federal College Of Education Zaria"
+        },
+        {
+            "acronym": "fceahaamufu",
+            "name": "Federal College Of Education, Eha-amufu"
+        },
+        {
+            "acronym": "fcegombe",
+            "name": "Federal College Of Education, Gombe"
+        },
+        {
+            "acronym": "fcekano",
+            "name": "Federal College Of Education, Kano"
+        },
+        {
+            "acronym": "fcepankshin",
+            "name": "Federal College of Education, Pankshin"
+        },
+        {
+            "acronym": "fcepotiskum",
+            "name": "Federal College Of Education, Potiskum"
+        },
+        {
+            "acronym": "hwcoed",
+            "name": "Havard Wilson College Of Education, Aba"
+        },
+        {
+            "acronym": "hillcoed",
+            "name": "Hill College Of Education"
+        },
+        {
+            "acronym": "iaisolodo",
+            "name": "Institute Of Arabic And Islamic Studies, Olodo"
+        },
+        {
+            "acronym": "ikcoed",
+            "name": "Isa Kaita College Of Education"
+        },
+        {
+            "acronym": "jnicoed",
+            "name": "Jama&amp;#039;atu Nasir Islam College Of Education, Kaduna"
+        },
+        {
+            "acronym": "jcaie",
+            "name": "Jibwis College Of Arabic And Islamic Education, Gombe"
+        },
+        {
+            "acronym": "jigcoed",
+            "name": "Jigawa State College Of Education, Gumel"
+        },
+        {
+            "acronym": "kanocoek",
+            "name": "Kano State College Of Education, Kambotso"
+        },
+        {
+            "acronym": "kicoem",
+            "name": "Kashim-ibrahim College Of Education, Maiduguri"
+        },
+        {
+            "acronym": "kscoed",
+            "name": "Kebbi State College Of Education, Argungu"
+        },
+        {
+            "acronym": "kinseycoed",
+            "name": "Kinsey College Of Education, Ilorin"
+        },
+        {
+            "acronym": "kcoeo",
+            "name": "Kwararafa College Of Education, Otukpo"
+        },
+        {
+            "acronym": "mocped",
+            "name": "Michael Otedola College Of Primary Education, Moforiji"
+        },
+        {
+            "acronym": "mogcolis",
+            "name": "Mohammed Goni College Of Legal And Islamic Studies"
+        },
+        {
+            "acronym": "mulcoed",
+            "name": "Muftau&amp;#039; Lanihun College Of Education"
+        },
+        {
+            "acronym": "mcoed",
+            "name": "Muhyldeen College Of Education, Ilorin"
+        },
+        {
+            "acronym": "mcoeiails",
+            "name": "Murtadha Col. Of Edu. Inst. Of Arabic &amp;amp; Islamic Legal Studies"
+        },
+        {
+            "acronym": "namcoed",
+            "name": "Nana Aishat Memorial College Of Education"
+        },
+        {
+            "acronym": "nocoed",
+            "name": "Nwafor Orizu College Of Education, Nsugbe"
+        },
+        {
+            "acronym": "ocoeda",
+            "name": "Onit College Of Education Abagana"
+        },
+        {
+            "acronym": "ossceila",
+            "name": "Osun State College Of Education, Ila-orangun"
+        },
+        {
+            "acronym": "oyocoed",
+            "name": "Oyo State College Of Education"
+        },
+        {
+            "acronym": "royalcoed",
+            "name": "Royal City College Of Education"
+        },
+        {
+            "acronym": "sscoesok",
+            "name": "Shehu Shagari College Of Education, Sokoto"
+        },
+        {
+            "acronym": "sacoed",
+            "name": "St. Augustine College Of Education"
+        },
+        {
+            "acronym": "taccoed",
+            "name": "The African Church College Of Education"
+        },
+        {
+            "acronym": "coensukka",
+            "name": "The College Of Education, Nsukka"
+        },
+        {
+            "acronym": "topcoed",
+            "name": "Topmost College Of Education"
+        },
+        {
+            "acronym": "uscoega",
+            "name": "Umar Suleiman College Of Education, Gashua"
+        },
+        {
+            "acronym": "uecoeddut",
+            "name": "Umar-ibn Ei-kanemi College Of Education, Dutsinma"
+        },
+        {
+            "acronym": "unitycoed",
+            "name": "Unity College Of Education, Aukpa-adoka"
+        },
+        {
+            "acronym": "yewacoed",
+            "name": "Yewa Central College Of Education"
+        },
+        {
+            "acronym": "ybuscolgs",
+            "name": "Yusuf Bala Usman College Of Legal And General Studies"
+        }
+    ]
+}

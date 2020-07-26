@@ -1,0 +1,224 @@
+{
+    "AB": {
+        "state": "Abia",
+        "capital": "Umuahia",
+        "latitude": "5.4308921",
+        "longitude": "7.5247243"
+    },
+    "AD": {
+        "state": "Adamawa",
+        "capital": "Yola",
+        "latitude": "9.3250497",
+        "longitude": "12.4380581"
+    },
+    "AK": {
+        "state": "Akwa Ibom",
+        "capital": "Uyo",
+        "latitude": "4.9299869",
+        "longitude": "7.87216"
+    },
+    "AN": {
+        "state": "Anambra",
+        "capital": "Awka",
+        "latitude": "6.2757656",
+        "longitude": "7.0068393"
+    },
+    "BA": {
+        "state": "Bauchi",
+        "capital": "Bauchi",
+        "latitude": "10.30982",
+        "longitude": "9.845172"
+    },
+    "BY": {
+        "state": "Bayelsa",
+        "capital": "Yenagoa",
+        "latitude": "4.8677767",
+        "longitude": "5.8987139"
+    },
+    "BN": {
+        "state": "Benue",
+        "capital": "Makurdi",
+        "latitude": "7.3508259",
+        "longitude": "8.8362755"
+    },
+    "BO": {
+        "state": "Borno",
+        "capital": "Maiduguri",
+        "latitude": "12.1205201",
+        "longitude": "13.1740348"
+    },
+    "CR": {
+        "state": "Cross River",
+        "capital": "Calabar",
+        "latitude": "5.5805318",
+        "longitude": "8.7481167"
+    },
+    "DT": {
+        "state": "Delta",
+        "capital": "Asaba",
+        "latitude": "5.5324624",
+        "longitude": "5.8987139"
+    },
+    "EB": {
+        "state": "Ebonyi",
+        "capital": "Abakaliki",
+        "latitude": "6.177973",
+        "longitude": "7.9592863"
+    },
+    "ED": {
+        "state": "Edo",
+        "capital": "Benin",
+        "latitude": "6.5438101",
+        "longitude": "5.8987139"
+    },
+    "EK": {
+        "state": "Ekiti",
+        "capital": "Ado Ekiti",
+        "latitude": "7.6655813",
+        "longitude": "5.3102505"
+    },
+    "EN": {
+        "state": "Enugu",
+        "capital": "Enugu",
+        "latitude": "6.4526667",
+        "longitude": "7.5103333"
+    },
+    "FC": {
+        "state": "Fct",
+        "capital": "Abuja",
+        "latitude": "8.8556838",
+        "longitude": "7.179026"
+    },
+    "GM": {
+        "state": "Gombe",
+        "capital": "Gombe",
+        "latitude": "10.2824",
+        "longitude": "11.17479"
+    },
+    "IM": {
+        "state": "Imo",
+        "capital": "Owerri",
+        "latitude": "5.5214533",
+        "longitude": "6.9209135"
+    },
+    "JG": {
+        "state": "Jigawa",
+        "capital": "Dutse",
+        "latitude": "12.4460001",
+        "longitude": "9.7232673"
+    },
+    "KD": {
+        "state": "Kaduna",
+        "capital": "Kaduna",
+        "latitude": "10.5166667",
+        "longitude": "7.4333333"
+    },
+    "KN": {
+        "state": "Kano",
+        "capital": "Kano",
+        "latitude": "12",
+        "longitude": "8.516667"
+    },
+    "KT": {
+        "state": "Katsina",
+        "capital": "Katsina",
+        "latitude": "12.99302",
+        "longitude": "7.606163"
+    },
+    "KB": {
+        "state": "Kebbi",
+        "capital": "Birnin Kebbi",
+        "latitude": "11.6781241",
+        "longitude": "4.0695454"
+    },
+    "KG": {
+        "state": "Kogi",
+        "capital": "Lokoja",
+        "latitude": "7.561891",
+        "longitude": "6.5783387"
+    },
+    "KW": {
+        "state": "Kwara",
+        "capital": "Ilorin",
+        "latitude": "8.9847995",
+        "longitude": "4.5624426"
+    },
+    "LA": {
+        "state": "Lagos",
+        "capital": "Ikeja",
+        "latitude": "6.4530556",
+        "longitude": "3.3958333"
+    },
+    "NS": {
+        "state": "Nasarawa",
+        "capital": "Lafia",
+        "latitude": "8.5474692",
+        "longitude": "7.7118003"
+    },
+    "NG": {
+        "state": "Niger",
+        "capital": "Minna",
+        "latitude": "9.607762",
+        "longitude": "6.553394"
+    },
+    "OG": {
+        "state": "Ogun",
+        "capital": "Abeokuta",
+        "latitude": "6.9098333",
+        "longitude": "3.2583626"
+    },
+    "OD": {
+        "state": "Ondo",
+        "capital": "Akure",
+        "latitude": "7.088721",
+        "longitude": "4.838763"
+    },
+    "OS": {
+        "state": "Osun",
+        "capital": "Osogbo",
+        "latitude": "7.983333",
+        "longitude": "5.083333"
+    },
+    "OY": {
+        "state": "Oyo",
+        "capital": "Ibadan",
+        "latitude": "7.837154",
+        "longitude": "3.934652"
+    },
+    "PL": {
+        "state": "Plateau",
+        "capital": "Jos",
+        "latitude": "9.2350817",
+        "longitude": "9.7232673"
+    },
+    "RV": {
+        "state": "Rivers",
+        "capital": "Port Harcourt",
+        "latitude": "4.8580767",
+        "longitude": "6.9209135"
+    },
+    "SO": {
+        "state": "Sokoto",
+        "capital": "Sokoto",
+        "latitude": "13.0666667",
+        "longitude": "5.2333333"
+    },
+    "TR": {
+        "state": "Taraba",
+        "capital": "Jalingo",
+        "latitude": "7.9868755",
+        "longitude": "10.9807003"
+    },
+    "YB": {
+        "state": "Yobe",
+        "capital": "Damaturu",
+        "latitude": "12.1871412",
+        "longitude": "11.7068294"
+    },
+    "ZM": {
+        "state": "Zamfara",
+        "capital": "Gusau",
+        "latitude": "12.1844159",
+        "longitude": "6.2375947"
+    }
+}

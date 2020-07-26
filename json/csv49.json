@@ -1,0 +1,42 @@
+{
+    "csv49": {
+        "obsolete": false,
+        "obsoleted_by": "csv0",
+        "reference": "Comma Separated Values For Nigeria by @stigwue"
+    },
+    "csv1": {
+        "obsolete": false,
+        "obsoleted_by": "csv0",
+        "reference": "States codes and geopolitical zones by @stigwue"
+    },
+    "csv2": {
+        "obsolete": false,
+        "obsoleted_by": "csv0",
+        "reference": "Geopolitical zones by @stigwue"
+    },
+    "csv3": {
+        "obsolete": false,
+        "obsoleted_by": "csv0",
+        "reference": "States LGAs and Geolocation by @kehers"
+    },
+    "csv4": {
+        "obsolete": false,
+        "obsoleted_by": "csv0",
+        "reference": "GSM Network Providers Phone Number Prefixes by @pystar and @stigwue"
+    },
+    "csv5": {
+        "obsolete": false,
+        "obsoleted_by": "csv0",
+        "reference": "States and Capital Geolocation by @stigwue"
+    },
+    "csv6": {
+        "obsolete": false,
+        "obsoleted_by": "csv0",
+        "reference": "Universities by @kehers"
+    },
+    "csv7": {
+        "obsolete": false,
+        "obsoleted_by": "csv0",
+        "reference": "Universities Polytechnics and Colleges by @funsholaniyi"
+    }
+}

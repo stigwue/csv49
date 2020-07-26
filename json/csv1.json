@@ -1,0 +1,180 @@
+{
+    "SE": {
+        "zone": "South East",
+        "states": [
+            {
+                "code": "AB",
+                "state": "ABIA"
+            },
+            {
+                "code": "AN",
+                "state": "ANAMBRA"
+            },
+            {
+                "code": "EB",
+                "state": "EBONYI"
+            },
+            {
+                "code": "EN",
+                "state": "ENUGU"
+            },
+            {
+                "code": "IM",
+                "state": "IMO"
+            }
+        ]
+    },
+    "NE": {
+        "zone": "North East",
+        "states": [
+            {
+                "code": "AD",
+                "state": "ADAMAWA"
+            },
+            {
+                "code": "BA",
+                "state": "BAUCHI"
+            },
+            {
+                "code": "BO",
+                "state": "BORNO"
+            },
+            {
+                "code": "GM",
+                "state": "GOMBE"
+            },
+            {
+                "code": "TR",
+                "state": "TARABA"
+            },
+            {
+                "code": "YB",
+                "state": "YOBE"
+            }
+        ]
+    },
+    "SS": {
+        "zone": "South South",
+        "states": [
+            {
+                "code": "AK",
+                "state": "AKWA IBOM"
+            },
+            {
+                "code": "BY",
+                "state": "BAYELSA"
+            },
+            {
+                "code": "CR",
+                "state": "CROSS RIVER"
+            },
+            {
+                "code": "DT",
+                "state": "DELTA"
+            },
+            {
+                "code": "ED",
+                "state": "EDO"
+            },
+            {
+                "code": "RV",
+                "state": "RIVERS"
+            }
+        ]
+    },
+    "NC": {
+        "zone": "North Central",
+        "states": [
+            {
+                "code": "BN",
+                "state": "BENUE"
+            },
+            {
+                "code": "FC",
+                "state": "FCT-ABUJA"
+            },
+            {
+                "code": "KG",
+                "state": "KOGI"
+            },
+            {
+                "code": "KW",
+                "state": "KWARA"
+            },
+            {
+                "code": "NS",
+                "state": "NASSARAWA"
+            },
+            {
+                "code": "NG",
+                "state": "NIGER"
+            },
+            {
+                "code": "PL",
+                "state": "PLATEAU"
+            }
+        ]
+    },
+    "SW": {
+        "zone": "South West",
+        "states": [
+            {
+                "code": "EK",
+                "state": "EKITI"
+            },
+            {
+                "code": "LA",
+                "state": "LAGOS"
+            },
+            {
+                "code": "OG",
+                "state": "OGUN"
+            },
+            {
+                "code": "OD",
+                "state": "ONDO"
+            },
+            {
+                "code": "OS",
+                "state": "OSUN"
+            },
+            {
+                "code": "OY",
+                "state": "OYO"
+            }
+        ]
+    },
+    "NW": {
+        "zone": "North West",
+        "states": [
+            {
+                "code": "JG",
+                "state": "JIGAWA"
+            },
+            {
+                "code": "KD",
+                "state": "KADUNA"
+            },
+            {
+                "code": "KN",
+                "state": "KANO"
+            },
+            {
+                "code": "KT",
+                "state": "KATSINA"
+            },
+            {
+                "code": "KB",
+                "state": "KEBBI"
+            },
+            {
+                "code": "SO",
+                "state": "SOKOTO"
+            },
+            {
+                "code": "ZM",
+                "state": "ZAMFARA"
+            }
+        ]
+    }
+}
