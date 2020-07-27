@@ -1,42 +1,58 @@
 {
     "csv49": {
+        "id" : "csv49",
         "obsolete": false,
         "obsoleted_by": "csv0",
-        "reference": "Comma Separated Values For Nigeria by @stigwue"
+        "reference": "Comma Separated Values For Nigeria",
+        "authors" : ["@stigwue"]
     },
     "csv1": {
+        "id" : "csv1",
         "obsolete": false,
         "obsoleted_by": "csv0",
-        "reference": "States codes and geopolitical zones by @stigwue"
+        "reference": "States codes and geopolitical zones",
+        "authors" : ["@stigwue"]
     },
     "csv2": {
+        "id" : "csv2",
         "obsolete": false,
         "obsoleted_by": "csv0",
-        "reference": "Geopolitical zones by @stigwue"
+        "reference": "Geopolitical zones",
+        "authors" : ["@stigwue"]
     },
     "csv3": {
+        "id" : "csv3",
         "obsolete": false,
         "obsoleted_by": "csv0",
-        "reference": "States LGAs and Geolocation by @kehers"
+        "reference": "States LGAs and Geolocation",
+        "authors" : ["@kehers"]
     },
     "csv4": {
+        "id" : "csv4",
         "obsolete": false,
         "obsoleted_by": "csv0",
-        "reference": "GSM Network Providers Phone Number Prefixes by @pystar and @stigwue"
+        "reference": "GSM Network Providers Phone Number Prefixes",
+        "authors" : ["@pystar", "@stigwue"]
     },
     "csv5": {
+        "id" : "csv5",
         "obsolete": false,
         "obsoleted_by": "csv0",
-        "reference": "States and Capital Geolocation by @stigwue"
+        "reference": "States and Capital Geolocation",
+        "authors" : ["@stigwue"]
     },
     "csv6": {
+        "id" : "csv6",
         "obsolete": false,
         "obsoleted_by": "csv0",
-        "reference": "Universities by @kehers"
+        "reference": "Universities",
+        "authors" : ["@kehers"]
     },
     "csv7": {
+        "id" : "csv7",
         "obsolete": false,
         "obsoleted_by": "csv0",
-        "reference": "Universities Polytechnics and Colleges by @funsholaniyi"
+        "reference": "Universities Polytechnics and Colleges",
+        "authors" : ["@funsholaniyi"]
     }
 }
