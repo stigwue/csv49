@@ -36,18 +36,18 @@ Like all things open source: fork this repository, do the awesome contribution y
 
 ## List
 
-1. [CSV49](./csv/csv49.csv): Comma Separated Values For Nigeria: a set of commonly used Nigerian data by [@stigwue](http://twitter.com/stigwue)
+* [CSV49](./csv/csv49.csv): Comma Separated Values For Nigeria: a set of commonly used Nigerian data by [@stigwue](http://twitter.com/stigwue)
 
-1. [CSV1](./csv/csv1.csv): States codes and geopolitical zones by [@stigwue](http://twitter.com/stigwue)
+* [CSV1](./csv/csv1.csv): States codes and geopolitical zones by [@stigwue](http://twitter.com/stigwue)
 
-1. [CSV2](./csv/csv2.csv): Geopolitical zones by [@stigwue](http://twitter.com/stigwue)
+* [CSV2](./csv/csv2.csv): Geopolitical zones by [@stigwue](http://twitter.com/stigwue)
 
-1. [CSV3](./csv/csv3.csv): States. LGAs and Geolocation by [@kehers](http://twitter.com/kehers)
+* [CSV3](./csv/csv3.csv): States. LGAs and Geolocation by [@kehers](http://twitter.com/kehers)
 
-1. [CSV4](./csv/csv4.csv): GSM Network Providers Phone Number Prefixes by [@stigwue](http://twitter.com/stigwue) and [@pystar](http://twitter.com/pystar)
+* [CSV4](./csv/csv4.csv): GSM Network Providers Phone Number Prefixes by [@stigwue](http://twitter.com/stigwue) and [@pystar](http://twitter.com/pystar)
 
-1. [CSV5](./csv/csv5.csv): States and Capital Geolocation by [@stigwue](http://twitter.com/stigwue)
+* [CSV5](./csv/csv5.csv): States and Capital Geolocation by [@stigwue](http://twitter.com/stigwue)
 
-1. [CSV6](./csv/csv6.csv): Universities by [@kehers](http://twitter.com/kehers)
+* [CSV6](./csv/csv6.csv): Universities by [@kehers](http://twitter.com/kehers)
 
-1. [CSV7](./csv/csv7.csv): Universities, Polytechnics and Colleges by [@funsholaniyi](http://twitter.com/funsholaniyi)
+* [CSV7](./csv/csv7.csv): Universities, Polytechnics and Colleges by [@funsholaniyi](http://twitter.com/funsholaniyi)
