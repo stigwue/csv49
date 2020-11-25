@@ -1,0 +1,119 @@
+{
+    "list": [
+        {
+            "name": "Access Bank PLC",
+            "website": "www.accessbankplc.com",
+            "email": "info@accessbankplc.com"
+        },
+        {
+            "name": "Citibank Nigeria Limited",
+            "website": "www.citibank.com",
+            "email": ""
+        },
+        {
+            "name": "Ecobank Nigeria PLC",
+            "website": "www.ecobank.com",
+            "email": "ecobank@ecobank.com"
+        },
+        {
+            "name": "Fidelity Bank PLC",
+            "website": "www.fidelitybank.ng",
+            "email": "true.serve@fidelitybank.ng"
+        },
+        {
+            "name": "First City Monument Bank PLC",
+            "website": "www.fcmb-ltd.com",
+            "email": "caf@firstcitygroup.com"
+        },
+        {
+            "name": "Guaranty Trust Bank PLC",
+            "website": "www.gtbank.com",
+            "email": "complaints@gtbank.com"
+        },
+        {
+            "name": "Key Stone Bank",
+            "website": "www.keystonebankng.com",
+            "email": "contactcentre@keystonebankng.com"
+        },
+        {
+            "name": "Polaris Bank",
+            "website": "www.polarisbanklimited.com",
+            "email": "yescenter@polarisbanklimited.com"
+        },
+        {
+            "name": "Stanbic IBTC Bank Ltd.",
+            "website": "www.stanbicibtc.com",
+            "email": "customerservice@ibtc.com"
+        },
+        {
+            "name": "Standard Chartered Bank Nigeria Ltd.",
+            "website": "www.ng.standardchartered.com",
+            "email": "stanchart.info@ng.standardchartered.com"
+        },
+        {
+            "name": "Sterling Bank Plc",
+            "website": "www.sterlingbankng.com",
+            "email": "webmaster@sterlingbankng.com"
+        },
+        {
+            "name": "SunTrust Bank Nigeria Limited",
+            "website": "suntrustng.com",
+            "email": "helpdesk@suntrustng.com"
+        },
+        {
+            "name": "Union Bank of Nigeria Plc",
+            "website": "www.unionbankng.com",
+            "email": "customerservice@unionbankng.com"
+        },
+        {
+            "name": "United Bank For Africa PLC",
+            "website": "www.ubagroup.com",
+            "email": "cfc@ubagroup.com"
+        },
+        {
+            "name": "Unity  Bank Plc",
+            "website": "www.unitybankng.com",
+            "email": "we_care@unitybankng.com"
+        },
+        {
+            "name": "Wema Bank Plc",
+            "website": "www.wemabank.com",
+            "email": "info@wemabank.com"
+        },
+        {
+            "name": "Zenith Bank Plc",
+            "website": "www.zenithbank.com",
+            "email": "enquiry@zenithbank.com"
+        },
+        {
+            "name": "Heritage Banking Company Ltd.",
+            "website": "www.hbng.com",
+            "email": "info@hbng.com"
+        },
+        {
+            "name": "Access Bank Plc",
+            "website": "www.accessbankplc.com",
+            "email": "contactcentre@accessbankplc.com"
+        },
+        {
+            "name": "First Bank Nigeria Limited",
+            "website": "www.firstbanknigeria.com",
+            "email": "firstcontact@firstbanknigeria.com"
+        },
+        {
+            "name": "Providus Bank",
+            "website": "www.providusbank.com",
+            "email": ""
+        },
+        {
+            "name": "Titan Trust Bank Ltd",
+            "website": "www.titantrustbank.com",
+            "email": "contactcentre@titantrustbank.com"
+        },
+        {
+            "name": "Globus Bank Limited",
+            "website": "www.globusbank.com",
+            "email": "contactcenter@globusbank.com"
+        }
+    ]
+}
