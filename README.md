@@ -32,22 +32,7 @@ There are other datasets out there that you may have and can contribute. Please 
 
 ### How do I contribute
 
-Like all things open source: fork this repository, do the awesome contribution you have, submit a pull request and that should be it!
+Like all things open source: fork this repository, do the awesome contribution you have, submit a pull request (with your new json and csv files) and that should be it!
 
 ## List
-
-* [CSV49](./csv/csv49.csv): Comma Separated Values For Nigeria: a set of commonly used Nigerian data by [@stigwue](http://twitter.com/stigwue)
-
-* [CSV1](./csv/csv1.csv): States codes and geopolitical zones by [@stigwue](http://twitter.com/stigwue)
-
-* [CSV2](./csv/csv2.csv): Geopolitical zones by [@stigwue](http://twitter.com/stigwue)
-
-* [CSV3](./csv/csv3.csv): States. LGAs and Geolocation by [@kehers](http://twitter.com/kehers)
-
-* [CSV4](./csv/csv4.csv): GSM Network Providers Phone Number Prefixes by [@stigwue](http://twitter.com/stigwue) and [@pystar](http://twitter.com/pystar)
-
-* [CSV5](./csv/csv5.csv): States and Capital Geolocation by [@stigwue](http://twitter.com/stigwue)
-
-* [CSV6](./csv/csv6.csv): Universities by [@kehers](http://twitter.com/kehers)
-
-* [CSV7](./csv/csv7.csv): Universities, Polytechnics and Colleges by [@funsholaniyi](http://twitter.com/funsholaniyi)
+Please see [CSV49](./csv/csv49.csv).

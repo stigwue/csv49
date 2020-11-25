@@ -54,5 +54,12 @@
         "obsoleted_by": "csv0",
         "reference": "Universities Polytechnics and Colleges",
         "authors" : ["@funsholaniyi"]
+    },
+    "csv8": {
+        "id" : "csv8",
+        "obsolete": false,
+        "obsoleted_by": "csv0",
+        "reference": "List of Banks with website and email address",
+        "authors" : ["@bhleson"]
     }
 }
